@@ -1,7 +1,23 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,GeoCode,Geography,Location,Mother's education,Wealth index quintiles,Value
+2011,AFRGHA008,Northern,,,,37.5
+2011,AFRGHA009,Upper East,,,,46.4
+2011,AFRGHA010,Upper West,,,,36.3
+2011,,,,Middle/Jss,,49
+2011,,,,None,,35.4
+2011,,,,Primary,,35.3
+2011,,,,Secondary+,,62.3
+2011,,,Rural,,,37.3
+2011,,,Urban,,,55.7
+2011,,,,,,50
+2011,AFRGHA001,Western,,,,79.9
+2011,AFRGHA002,Central,,,,40.1
+2011,AFRGHA003,Greater Accra,,,,55.5
+2011,AFRGHA004,Volta,,,,15.9
+2011,AFRGHA005,Eastern,,,,64.1
+2011,AFRGHA006,Ashanti,,,,46.7
+2011,AFRGHA007,Brong Ahafo,,,,60.8
+2011,,,,,Fourth,37
+2011,,,,,Middle,34.4
+2011,,,,,Poorest,35.6
+2011,,,,,Richest,67.7
+2011,,,,,Second,35.1

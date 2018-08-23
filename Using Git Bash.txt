@@ -1,0 +1,12 @@
+Open Git Bash terminal
+
+Set directory (cd) to the folder you will clone the site into
+git clone " [SSH URL] " - you can find this in GitHub ('Clone or download')
+When cloned, update directory (cd ./) to the new folder
+You can use 'explorer .' to open the directory folder
+Make changes to files
+
+git status (not required, but useful)
+git add -A
+git clone -m "MESSAGE" - enter name of the commit
+git push
