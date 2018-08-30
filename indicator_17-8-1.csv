@@ -2,8 +2,8 @@ Year,GeoCode,Geography,Location,Age,Sex,Value
 2010,,,,,,8.3
 2010,,,,15+,Male,11.1
 2010,,,,15+,Female,5.7
-2010,,,Urban,,,13.4
-2010,,,Rural,,,2.3
+2010,,,Urban ,,,13.4
+2010,,,Rural ,,,2.3
 2010,AFRGHA001,Western,,,,6.8
 2010,AFRGHA002,Central,,,,7.6
 2010,AFRGHA003,Greater Accra,,,,19.3
@@ -58,26 +58,26 @@ Year,GeoCode,Geography,Location,Age,Sex,Value
 2010,AFRGHA008,Northern,,15+,Female,1.3
 2010,AFRGHA009,Upper East,,15+,Female,1.4
 2010,AFRGHA010,Upper West,,15+,Female,2
-2010,AFRGHA001,Western,Urban,15+,,12.5
-2010,AFRGHA002,Central,Urban,15+,,11.9
-2010,AFRGHA003,Greater Accra,Urban,15+,,20
-2010,AFRGHA004,Volta,Urban,15+,,7.7
-2010,AFRGHA005,Eastern,Urban,15+,,8.8
-2010,AFRGHA006,Ashanti,Urban,15+,,13.5
-2010,AFRGHA007,Brong Ahafo,Urban,15+,,6.3
-2010,AFRGHA008,Northern,Urban,15+,,5.1
-2010,AFRGHA009,Upper East,Urban,15+,,6.4
-2010,AFRGHA010,Upper West,Urban,15+,,10.9
-2010,AFRGHA001,Western,Rural,15+,,2.1
-2010,AFRGHA002,Central,Rural,15+,,3.6
-2010,AFRGHA003,Greater Accra,Rural,15+,,11
-2010,AFRGHA004,Volta,Rural,15+,,1.6
-2010,AFRGHA005,Eastern,Rural,15+,,2.4
-2010,AFRGHA006,Ashanti,Rural,15+,,2.6
-2010,AFRGHA007,Brong Ahafo,Rural,15+,,1.5
-2010,AFRGHA008,Northern,Rural,15+,,0.8
-2010,AFRGHA009,Upper East,Rural,15+,,1.4
-2010,AFRGHA010,Upper West,Rural,15+,,1.7
+2010,AFRGHA001,Western,Urban ,15+,,12.5
+2010,AFRGHA002,Central,Urban ,15+,,11.9
+2010,AFRGHA003,Greater Accra,Urban ,15+,,20
+2010,AFRGHA004,Volta,Urban ,15+,,7.7
+2010,AFRGHA005,Eastern,Urban ,15+,,8.8
+2010,AFRGHA006,Ashanti,Urban ,15+,,13.5
+2010,AFRGHA007,Brong Ahafo,Urban ,15+,,6.3
+2010,AFRGHA008,Northern,Urban ,15+,,5.1
+2010,AFRGHA009,Upper East,Urban ,15+,,6.4
+2010,AFRGHA010,Upper West,Urban ,15+,,10.9
+2010,AFRGHA001,Western,Rural ,15+,,2.1
+2010,AFRGHA002,Central,Rural ,15+,,3.6
+2010,AFRGHA003,Greater Accra,Rural ,15+,,11
+2010,AFRGHA004,Volta,Rural ,15+,,1.6
+2010,AFRGHA005,Eastern,Rural ,15+,,2.4
+2010,AFRGHA006,Ashanti,Rural ,15+,,2.6
+2010,AFRGHA007,Brong Ahafo,Rural ,15+,,1.5
+2010,AFRGHA008,Northern,Rural ,15+,,0.8
+2010,AFRGHA009,Upper East,Rural ,15+,,1.4
+2010,AFRGHA010,Upper West,Rural ,15+,,1.7
 2010,AFRGHA001_01,Jomoro,,,,3.1
 2010,AFRGHA001_02,Ellembelle,,,,3.4
 2010,AFRGHA001_03,Nzema East,,,,3.1
