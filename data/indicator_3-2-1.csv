@@ -1,84 +1,84 @@
-Year,GeoCode,Geography,Location,Education level,Wealth index quintiles,Value
-2011,,,,Middle/JSS,,28
-2011,,,,None,,45
-2011,,,,Primary,,31
-2011,,,,Secondary+,,5
-2011,,,Rual,,,40
+Year,Geography,Location,Education level,Wealth index quintiles,GeoCode,Value
+2011,,,Middle/JSS,,,28
+2011,,,None,,,45
+2011,,,Primary,,,31
+2011,,,Secondary+,,,5
+2011,,Rural,,,,40
 2011,,,,,,31
-2011,,,Urban,,,28
-2011,,,,,Fourth,36
-2011,,,,,Middle,30
-2011,,,,,Poorest,48
-2011,,,,,Richest,15
-2011,,,,,Second,37
-2011,AFRGHA001,Western,,,,17
-2011,AFRGHA002,Central,,,,36
-2011,AFRGHA003,Greater Accra,,,,19
-2011,AFRGHA004,Volta,,,,22
-2011,AFRGHA005,Eastern,,,,24
-2011,AFRGHA006,Ashanti,,,,45
-2011,AFRGHA007,Brong Ahafo,,,,41
-2011,AFRGHA008,Northern,,,,63
-2011,AFRGHA009,Upper East,,,,43
-2011,AFRGHA010,Upper West,,,,44
-2008,,,,None,,44
-2008,,,,Primary,,35
-2008,,,,Secondary+,,15
-2008,,,Rural,,,36
+2011,,Urban,,,,28
+2011,,,,Fourth,,36
+2011,,,,Middle,,30
+2011,,,,Poorest,,48
+2011,,,,Richest,,15
+2011,,,,Second,,37
+2011,Western,,,,AFRGHA001,17
+2011,Central,,,,AFRGHA002,36
+2011,Greater Accra,,,,AFRGHA003,19
+2011,Volta,,,,AFRGHA004,22
+2011,Eastern,,,,AFRGHA005,24
+2011,Ashanti,,,,AFRGHA006,45
+2011,Brong Ahafo,,,,AFRGHA007,41
+2011,Northern,,,,AFRGHA008,63
+2011,Upper East,,,,AFRGHA009,43
+2011,Upper West,,,,AFRGHA010,44
+2008,,,None,,,44
+2008,,,Primary,,,35
+2008,,,Secondary+,,,15
+2008,,Rural,,,,36
 2008,,,,,,31
-2008,AFRGHA001,Western,,,,14
-2008,,,,,Middle,34
-2008,,,,,Poorest,47
-2008,,,,,Richest,14
-2003,,,,,Middle/Jss,34
-2003,,,,None,,63
-2003,,,,Primary,,48
-2003,,,,Secondary+,,5
-2003,,,Rural,,,52
+2008,Western,,,,AFRGHA001,14
+2008,,,,Middle,,34
+2008,,,,Poorest,,47
+2008,,,,Richest,,14
+2003,,,,Middle/Jss,,34
+2003,,,None,,,63
+2003,,,Primary,,,48
+2003,,,Secondary+,,,5
+2003,,Rural,,,,52
 2003,,,,,,50
-2003,AFRGHA001,Western,,,,46
-2003,AFRGHA002,Central,,,,41
-2003,AFRGHA003,Greater Accra,,,,31
-2003,AFRGHA004,Volta,,,,41
-2003,AFRGHA005,Eastern,,,,33
-2003,AFRGHA006,Ashanti,,,,40
-2003,AFRGHA007,Brong Ahafo,,,,35
-2003,AFRGHA008,Northern,,,,90
-2003,AFRGHA009,Upper East,,,,48
-2003,AFRGHA010,Upper West,,,,115
-2003,,,Urban,,,40
-2003,,,,,Fourth,45
-2003,,,,,Middle,40
-2003,,,,,Poorest,70
-2003,,,,,Richest,33
-2003,,,,,Second,44
-2008,,,,,Middle/Jss,23
-2008,AFRGHA002,Central,,,,38
-2008,AFRGHA003,Greater Accra,,,,14
-2008,AFRGHA004,Volta,,,,13
-2008,AFRGHA005,Eastern,,,,30
-2008,AFRGHA006,Ashanti,,,,28
-2008,AFRGHA007,Brong Ahafo,,,,41
-2008,AFRGHA008,Northern,,,,72
-2008,AFRGHA009,Upper East,,,,33
-2008,AFRGHA010,Upper West,,,,50
-2008,,,Urban,,,27
-2008,,,,,Fourth,25
-2008,,,,,Second,35
-1998,,,,,Middle/Jss,39.9
-1998,,,,,None,69.3
-1998,,,,,Primary,45.4
-1998,,,,,Secondary+,23.9
-1998,,,Rural,,,58.4
+2003,Western,,,,AFRGHA001,46
+2003,Central,,,,AFRGHA002,41
+2003,Greater Accra,,,,AFRGHA003,31
+2003,Volta,,,,AFRGHA004,41
+2003,Eastern,,,,AFRGHA005,33
+2003,Ashanti,,,,AFRGHA006,40
+2003,Brong Ahafo,,,,AFRGHA007,35
+2003,Northern,,,,AFRGHA008,90
+2003,Upper East,,,,AFRGHA009,48
+2003,Upper West,,,,AFRGHA010,115
+2003,,Urban,,,,40
+2003,,,,Fourth,,45
+2003,,,,Middle,,40
+2003,,,,Poorest,,70
+2003,,,,Richest,,33
+2003,,,,Second,,44
+2008,,,,Middle/Jss,,23
+2008,Central,,,,AFRGHA002,38
+2008,Greater Accra,,,,AFRGHA003,14
+2008,Volta,,,,AFRGHA004,13
+2008,Eastern,,,,AFRGHA005,30
+2008,Ashanti,,,,AFRGHA006,28
+2008,Brong Ahafo,,,,AFRGHA007,41
+2008,Northern,,,,AFRGHA008,72
+2008,Upper East,,,,AFRGHA009,33
+2008,Upper West,,,,AFRGHA010,50
+2008,,Urban,,,,27
+2008,,,,Fourth,,25
+2008,,,,Second,,35
+1998,,,,Middle/Jss,,39.9
+1998,,,,None,,69.3
+1998,,,,Primary,,45.4
+1998,,,,Secondary+,,23.9
+1998,,Rural,,,,58.4
 1998,,,,,,53.9
-1998,AFRGHA001,Western,,,,44.7
-1998,AFRGHA002,Central,,,,63.6
-1998,AFRGHA003,Greater Accra,,,,21.5
-1998,AFRGHA004,Volta,,,,46.7
-1998,AFRGHA005,Eastern,,,,41
-1998,AFRGHA006,Ashanti,,,,37.9
-1998,AFRGHA007,Brong Ahafo,,,,55.7
-1998,AFRGHA008,Northern,,,,108.8
-1998,AFRGHA009,Upper East,,,,91.5
-1998,AFRGHA010,Upper West,,,,80.3
-1998,,,Urban,,,35.7
+1998,Western,,,,AFRGHA001,44.7
+1998,Central,,,,AFRGHA002,63.6
+1998,Greater Accra,,,,AFRGHA003,21.5
+1998,Volta,,,,AFRGHA004,46.7
+1998,Eastern,,,,AFRGHA005,41
+1998,Ashanti,,,,AFRGHA006,37.9
+1998,Brong Ahafo,,,,AFRGHA007,55.7
+1998,Northern,,,,AFRGHA008,108.8
+1998,Upper East,,,,AFRGHA009,91.5
+1998,Upper West,,,,AFRGHA010,80.3
+1998,,Urban,,,,35.7
