@@ -1,84 +1,160 @@
-Year,Geography,Location,Education level,Wealth index quintiles,GeoCode,Value
-2011,,,Middle/JSS,,,28
-2011,,,None,,,45
-2011,,,Primary,,,31
-2011,,,Secondary+,,,5
-2011,,Rural,,,,40
-2011,,,,,,31
-2011,,Urban,,,,28
-2011,,,,Fourth,,36
-2011,,,,Middle,,30
-2011,,,,Poorest,,48
-2011,,,,Richest,,15
-2011,,,,Second,,37
-2011,Western,,,,AFRGHA001,17
-2011,Central,,,,AFRGHA002,36
-2011,Greater Accra,,,,AFRGHA003,19
-2011,Volta,,,,AFRGHA004,22
-2011,Eastern,,,,AFRGHA005,24
-2011,Ashanti,,,,AFRGHA006,45
-2011,Brong Ahafo,,,,AFRGHA007,41
-2011,Northern,,,,AFRGHA008,63
-2011,Upper East,,,,AFRGHA009,43
-2011,Upper West,,,,AFRGHA010,44
-2008,,,None,,,44
-2008,,,Primary,,,35
-2008,,,Secondary+,,,15
-2008,,Rural,,,,36
-2008,,,,,,31
-2008,Western,,,,AFRGHA001,14
-2008,,,,Middle,,34
-2008,,,,Poorest,,47
-2008,,,,Richest,,14
-2003,,,,Middle/Jss,,34
-2003,,,None,,,63
-2003,,,Primary,,,48
-2003,,,Secondary+,,,5
-2003,,Rural,,,,52
-2003,,,,,,50
-2003,Western,,,,AFRGHA001,46
-2003,Central,,,,AFRGHA002,41
-2003,Greater Accra,,,,AFRGHA003,31
-2003,Volta,,,,AFRGHA004,41
-2003,Eastern,,,,AFRGHA005,33
-2003,Ashanti,,,,AFRGHA006,40
-2003,Brong Ahafo,,,,AFRGHA007,35
-2003,Northern,,,,AFRGHA008,90
-2003,Upper East,,,,AFRGHA009,48
-2003,Upper West,,,,AFRGHA010,115
-2003,,Urban,,,,40
-2003,,,,Fourth,,45
-2003,,,,Middle,,40
-2003,,,,Poorest,,70
-2003,,,,Richest,,33
-2003,,,,Second,,44
-2008,,,,Middle/Jss,,23
-2008,Central,,,,AFRGHA002,38
-2008,Greater Accra,,,,AFRGHA003,14
-2008,Volta,,,,AFRGHA004,13
-2008,Eastern,,,,AFRGHA005,30
-2008,Ashanti,,,,AFRGHA006,28
-2008,Brong Ahafo,,,,AFRGHA007,41
-2008,Northern,,,,AFRGHA008,72
-2008,Upper East,,,,AFRGHA009,33
-2008,Upper West,,,,AFRGHA010,50
-2008,,Urban,,,,27
-2008,,,,Fourth,,25
-2008,,,,Second,,35
-1998,,,,Middle/Jss,,39.9
-1998,,,,None,,69.3
-1998,,,,Primary,,45.4
-1998,,,,Secondary+,,23.9
-1998,,Rural,,,,58.4
-1998,,,,,,53.9
-1998,Western,,,,AFRGHA001,44.7
-1998,Central,,,,AFRGHA002,63.6
-1998,Greater Accra,,,,AFRGHA003,21.5
-1998,Volta,,,,AFRGHA004,46.7
-1998,Eastern,,,,AFRGHA005,41
-1998,Ashanti,,,,AFRGHA006,37.9
-1998,Brong Ahafo,,,,AFRGHA007,55.7
-1998,Northern,,,,AFRGHA008,108.8
-1998,Upper East,,,,AFRGHA009,91.5
-1998,Upper West,,,,AFRGHA010,80.3
-1998,,Urban,,,,35.7
+Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,Previous birth interval,Value
+2014,,,,,,,,,60
+2014,Urban,,,,,,,,64
+2014,Rural,,,,,,,,75
+2014,,Male,,,,,,,78
+2014,,Female,,,,,,,62
+2014,,,Western,,,,,,56
+2014,,,Central,,,,,,69
+2014,,,Greater Accra,,,,,,47
+2014,,,Volta,,,,,,61
+2014,,,Eastern,,,,,,68
+2014,,,Ashanti,,,,,,80
+2014,,,Brong Ahafo,,,,,,57
+2014,,,Northern,,,,,,111
+2014,,,Upper East,,,,,,-72
+2014,,,Upper West,,,,,,-92
+2014,,,,<20,,,,,84
+2014,,,,20-29,,,,,63
+2014,,,,30-39,,,,,74
+2014,,,,,No education,,,,92
+2014,,,,,Primary,,,,72
+2014,,,,,Middle/JSS/JHS,,,,54
+2014,,,,,Secondary+,,,,55
+2014,,,,,,Lowest,,,92
+2014,,,,,,Second,,,73
+2014,,,,,,Middle,,,61
+2014,,,,,,Fourth,,,55
+2014,,,,,,Highest,,,64
+2014,,,,,,,1,,70
+2014,,,,,,,02-Mar,,62
+2014,,,,,,,04-Jun,,68
+2014,,,,,,,7+,,118
+2014,,,,,,,,<2 years,109
+2014,,,,,,,,2 years,72
+2014,,,,,,,,3 years,67
+2014,,,,,,,,4+ years,50
+2008,,,,,,,,,80
+2008,Urban,,,,,,,,75
+2008,Rural,,,,,,,,90
+2008,,Male,,,,,,,93
+2008,,Female,,,,,,,76
+2008,,,Western,,,,,,-65
+2008,,,Central,,,,,,-108
+2008,,,Greater Accra,,,,,,-50
+2008,,,Volta,,,,,,-50
+2008,,,Eastern,,,,,,-81
+2008,,,Ashanti,,,,,,80
+2008,,,Brong Ahafo,,,,,,-76
+2008,,,Northern,,,,,,137
+2008,,,Upper East,,,,,,-78
+2008,,,Upper West,,,,,,-142
+2008,,,,<20,,,,,109
+2008,,,,20-29,,,,,73
+2008,,,,30-39,,,,,95
+2008,,,,,No education,,,,102
+2008,,,,,Primary,,,,88
+2008,,,,,Middle/JSS/JHS,,,,68
+2008,,,,,Secondary+,,,,-64
+2008,,,,,,Lowest,,,103
+2008,,,,,,Second,,,79
+2008,,,,,,Middle,,,102
+2008,,,,,,Fourth,,,68
+2008,,,,,,Highest,,,60
+2008,,,,,,,1,,84
+2008,,,,,,,02-Mar,,75
+2008,,,,,,,04-Jun,,90
+2008,,,,,,,7+,,-110
+2008,,,,,,,,<2 years,131
+2008,,,,,,,,2 years,86
+2008,,,,,,,,3 years,83
+2008,,,,,,,,4+ years,58
+2003,,,,,,,,,111
+2003,Urban,,,,,,,,93
+2003,Rural,,,,,,,,118
+2003,,Male,,,,,,,111
+2003,,Female,,,,,,,108
+2003,,,Western,,,,,,109
+2003,,,Central,,,,,,-90
+2003,,,Greater Accra,,,,,,75
+2003,,,Volta,,,,,,113
+2003,,,Eastern,,,,,,95
+2003,,,Ashanti,,,,,,116
+2003,,,Brong Ahafo,,,,,,91
+2003,,,Northern,,,,,,154
+2003,,,Upper East,,,,,,79
+2003,,,Upper West,,,,,,208
+2003,,,,<20,,,,,131
+2003,,,,20-29,,,,,103
+2003,,,,30-39,,,,,108
+2003,,,,40-49,,,,,-128
+2003,,,,,No education,,,,125
+2003,,,,,Primary,,,,120
+2003,,,,,Middle/JSS/JHS,,,,92
+2003,,,,,Secondary+,,,,-34
+2003,,,,,,Lowest,,,128
+2003,,,,,,Second,,,105
+2003,,,,,,Middle,,,111
+2003,,,,,,Fourth,,,108
+2003,,,,,,Highest,,,88
+2003,,,,,,,1,,105
+2003,,,,,,,02-Mar,,96
+2003,,,,,,,04-Jun,,116
+2003,,,,,,,7+,,145
+2003,,,,,,,,<2 years,192
+2003,,,,,,,,2 years,110
+2003,,,,,,,,3 years,82
+2003,,,,,,,,4+ years,86
+1998,,,,,,,,,108
+1998,Urban,,,,,,,,76.8
+1998,Rural,,,,,,,,122
+1998,,Male,,,,,,,114.3
+1998,,Female,,,,,,,106.3
+1998,,,Western,,,,,,109.7
+1998,,,Central,,,,,,142.1
+1998,,,Greater Accra,,,,,,62
+1998,,,Volta,,,,,,98
+1998,,,Eastern,,,,,,89.1
+1998,,,Ashanti,,,,,,78.2
+1998,,,Brong Ahafo,,,,,,-128.7
+1998,,,Northern,,,,,,171.3
+1998,,,Upper East,,,,,,155.6
+1998,,,Upper West,,,,,,155.3
+1998,,,,< 20,,,,,131
+1998,,,,20-29,,,,,105
+1998,,,,30-39,,,,,112.2
+1998,,,,40-49,,,,,-90.9
+1998,,,,,No education,,,,130.8
+1998,,,,,Primary,,,,112.5
+1998,,,,,Middle/JSS,,,,91.3
+1998,,,,,Secondary+,,,,-59.8
+1998,,,,,,,1,,114.4
+1998,,,,,,,02-Mar,,103.4
+1998,,,,,,,04-Jun,,114.2
+1998,,,,,,,7+,,112.6
+1998,,,,,,,,< 2 years,163.7
+1998,,,,,,,,2-3 years,108.4
+1998,,,,,,,,4 or more years,66.2
+1993,,,,,,,,,119
+1993,Urban,,,,,,,,89.9
+1993,Rural,,,,,,,,149.2
+1993,,Male,,,,,,,137.5
+1993,,Female,,,,,,,127.9
+1993,,,Western,,,,,,131.8
+1993,,,Central,,,,,,128
+1993,,,Greater Accra,,,,,,100.2
+1993,,,Volta,,,,,,116.4
+1993,,,Eastern,,,,,,93.2
+1993,,,Ashanti,,,,,,97.6
+1993,,,Brong Ahafo,,,,,,94.6
+1993,,,Northern,,,,,,237
+1993,,,Upper East,,,,,,-187.7
+1993,,,Upper West,,,,,,180.1
+1993,,,,< 20,,,,,160.9
+1993,,,,20-29,,,,,126.6
+1993,,,,30-39,,,,,124.1
+1993,,,,40-49,,,,,-174.5
+1993,,,,,No education,,,,165.7
+1993,,,,,Primary,,,,141.2
+1993,,,,,Middle/JSS,,,,89
+1993,,,,,Secondary/Higher,,,,-40.7

@@ -217,6 +217,7 @@ var indicatorModel = function (options) {
   this.dataHasUnitSpecificFields = false;
   this.fieldValueStatuses = [];
   this.validParentsByChild = {};
+  this.showMap = options.showMap;
 
   // initialise the field information, unique fields and unique values for each field:
   (function initialise() {
@@ -679,7 +680,7 @@ var indicatorModel = function (options) {
 
       if(options.initial) {
         // order the fields based on the edge data, if any:
-        if(this.edgesData.length) {
+        if(this.edgesData && this.edgesData.length) {
           var orderedEdges = _.chain(this.edgesData)
             .groupBy('From')
             .map(function(value, key) { return [key].concat(_.pluck(value, 'To')); })
@@ -705,7 +706,8 @@ var indicatorModel = function (options) {
           return _.findWhere(that.fieldsByUnit, { unit : that.selectedUnit }).fields.indexOf(fis.field) != -1;
         }) : this.fieldItemStates,
         allowedFields: this.allowedFields,
-        edges: this.edgesData
+        edges: this.edgesData,
+        showMap: this.showMap
       });
 
 
@@ -734,6 +736,15 @@ indicatorModel.prototype = {
   }
 };
 
+var mapView = function () {
+
+  "use strict";
+
+  this.initialise = function() {
+    $('.map').show();
+  }
+};
+
 var indicatorView = function (model, options) {
   
   "use strict";
@@ -744,6 +755,7 @@ var indicatorView = function (model, options) {
   this._chartInstance = undefined;
   this._rootElement = options.rootElement;
   this._tableColumnDefs = options.tableColumnDefs;
+  this._mapView = undefined;
   this._legendElement = options.legendElement;
   
   var chartHeight = screen.height < options.maxChartHeight ? screen.height : options.maxChartHeight;
@@ -794,6 +806,11 @@ var indicatorView = function (model, options) {
   
   this._model.onSeriesComplete.attach(function(sender, args) {
     view_obj.initialiseSeries(args);
+
+    if(args.showMap) {
+      view_obj._mapView = new mapView();
+      view_obj._mapView.initialise();
+    }
   });
 
   this._model.onSeriesSelectedChanged.attach(function(sender, args) {

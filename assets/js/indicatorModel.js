@@ -42,6 +42,7 @@ var indicatorModel = function (options) {
   this.dataHasUnitSpecificFields = false;
   this.fieldValueStatuses = [];
   this.validParentsByChild = {};
+  this.showMap = options.showMap;
 
   // initialise the field information, unique fields and unique values for each field:
   (function initialise() {
@@ -504,7 +505,7 @@ var indicatorModel = function (options) {
 
       if(options.initial) {
         // order the fields based on the edge data, if any:
-        if(this.edgesData.length) {
+        if(this.edgesData && this.edgesData.length) {
           var orderedEdges = _.chain(this.edgesData)
             .groupBy('From')
             .map(function(value, key) { return [key].concat(_.pluck(value, 'To')); })
@@ -530,7 +531,8 @@ var indicatorModel = function (options) {
           return _.findWhere(that.fieldsByUnit, { unit : that.selectedUnit }).fields.indexOf(fis.field) != -1;
         }) : this.fieldItemStates,
         allowedFields: this.allowedFields,
-        edges: this.edgesData
+        edges: this.edgesData,
+        showMap: this.showMap
       });
 
 

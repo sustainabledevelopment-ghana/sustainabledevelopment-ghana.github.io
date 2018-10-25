@@ -1,7 +1,89 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Geography,Value
+2015,,141.9
+2015,Western,124.5
+2015,Central,108.4
+2015,Greater Accra,176.8
+2015,Volta,134.3
+2015,Eastern,176.1
+2015,Ashanti,136.4
+2015,Brong Ahafo,130.6
+2015,Northern,144.3
+2015,Upper East,89.7
+2015,Upper West,155.8
+2014,,143.9
+2014,Western,149.5
+2014,Central,105.2
+2014,Greater Accra,184.7
+2014,Volta,178.8
+2014,Eastern,175.5
+2014,Ashanti,114.9
+2014,Brong Ahafo,134.9
+2014,Northern,107.5
+2014,Upper East,138.7
+2014,Upper West,161.1
+2013,,154.5
+2013,Western,152.7
+2013,Central,121.6
+2013,Greater Accra,196.7
+2013,Volta,161
+2013,Eastern,199.5
+2013,Ashanti,125.3
+2013,Brong Ahafo,139.2
+2013,Northern,173.7
+2013,Upper East,108.4
+2013,Upper West,192.9
+2012,,152
+2012,Western,132
+2012,Central,113
+2012,Greater Accra,201
+2012,Volta,175
+2012,Eastern,179
+2012,Ashanti,77
+2012,Brong Ahafo,167
+2012,Northern,212
+2012,Upper East,136
+2012,Upper West,146
+2011,,195
+2011,Western,114
+2011,Central,141
+2011,Greater Accra,256
+2011,Volta,201
+2011,Eastern,207
+2011,Ashanti,232
+2011,Brong Ahafo,208
+2011,Northern,165
+2011,Upper East,120
+2011,Upper West,202
+2010,,163.2
+2010,Western,176.1
+2010,Central,149
+2010,Greater Accra,181.5
+2010,Volta,209.6
+2010,Eastern,191.6
+2010,Ashanti,149.6
+2010,Brong Ahafo,138.7
+2010,Northern,137.2
+2010,Upper East,137.9
+2010,Upper West,157.7
+2009,,170
+2009,Western,148
+2009,Central,129
+2009,Greater Accra,197
+2009,Volta,146
+2009,Eastern,136
+2009,Ashanti,215
+2009,Brong Ahafo,194
+2009,Northern,147
+2009,Upper East,131
+2009,Upper West,267
+2008,,199.7
+2008,Western,269.5
+2008,Central,223.2
+2008,Greater Accra,194.3
+2008,Volta,144.7
+2008,Eastern,170.7
+2008,Ashanti,252.6
+2008,Brong Ahafo,185.3
+2008,Northern,175.9
+2008,Upper East,152.2
+2008,Upper West,120.6
