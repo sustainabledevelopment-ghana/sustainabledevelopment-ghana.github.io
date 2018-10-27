@@ -1,4 +1,4 @@
-Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,Previous birth interval,Value
+Year,Location,Sex,Geography,Age,Mothers education,Wealth quintile,Birth order,Previous birth interval,Value
 2014,,,,,,,,,29
 2014,Urban,,,,,,,,33
 2014,Rural,,,,,,,,29
@@ -14,7 +14,7 @@ Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,P
 2014,,,Northern,,,,,,24
 2014,,,Upper East,,,,,,-24
 2014,,,Upper West,,,,,,-37
-2014,,,,<20,,,,,84
+2014,,,,Under 20,,,,,84
 2014,,,,20-29,,,,,63
 2014,,,,30-39,,,,,74
 2014,,,,,No education,,,,30
@@ -27,8 +27,8 @@ Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,P
 2014,,,,,,Fourth,,,31
 2014,,,,,,Highest,,,40
 2014,,,,,,,1,,70
-2014,,,,,,,43161,,62
-2014,,,,,,,43255,,68
+2014,,,,,,,2 to 3,,62
+2014,,,,,,,4 to 6,,68
 2014,,,,,,,7+,,118
 2014,,,,,,,,<2 years,109
 2014,,,,,,,,2 years,72
@@ -49,7 +49,7 @@ Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,P
 2008,,,Northern,,,,,,35
 2008,,,Upper East,,,,,,-17
 2008,,,Upper West,,,,,,45
-2008,,,,<20,,,,,43
+2008,,,,Under 20,,,,,43
 2008,,,,20-29,,,,,28
 2008,,,,30-39,,,,,35
 ,,,,40-49,,,,,-40
@@ -63,8 +63,8 @@ Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,P
 2008,,,,,,Fourth,,,31
 2008,,,,,,Highest,,,31
 2008,,,,,,,1,,35
-2008,,,,,,,43161,,24
-2008,,,,,,,43255,,36
+2008,,,,,,,2 to 3,,24
+2008,,,,,,,4 to 6,,36
 2008,,,,,,,7+,,49
 2008,,,,,,,,<2 years,60
 2008,,,,,,,,2 years,24
@@ -85,7 +85,7 @@ Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,P
 2003,,,Northern,,,,,,38
 2003,,,Upper East,,,,,,22
 2003,,,Upper West,,,,,,62
-2003,,,,<20,,,,,54
+2003,,,,Under 20,,,,,54
 2003,,,,20-29,,,,,35
 2003,,,,30-39,,,,,42
 2003,,,,40-49,,,,,-62
@@ -99,8 +99,8 @@ Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,P
 2003,,,,,,Fourth,,,38
 2003,,,,,,Highest,,,42
 2003,,,,,,,1,,46
-2003,,,,,,,43161,,34
-2003,,,,,,,43255,,40
+2003,,,,,,,2 to 3,,34
+2003,,,,,,,4 to 6,,40
 2003,,,,,,,7+,,56
 2003,,,,,,,,<2 years,83
 2003,,,,,,,,2 years,28
@@ -121,7 +121,7 @@ Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,P
 1998,,,Northern,,,,,,26.7
 1998,,,Upper East,,,,,,28.4
 1998,,,Upper West,,,,,,25.5
-1998,,,,< 20,,,,,48.8
+1998,,,,Under 20,,,,,48.8
 1998,,,,20-29,,,,,25.3
 1998,,,,30-39,,,,,38.4
 1998,,,,40-49,,,,,-18.4
@@ -130,8 +130,8 @@ Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,P
 1998,,,,,Middle/JSS,,,,28.6
 1998,,,,,Secondary+,,,,-10.5
 1998,,,,,,,1,,43.4
-1998,,,,,,,43161,,28.2
-1998,,,,,,,43255,,27.2
+1998,,,,,,,2 to 3,,28.2
+1998,,,,,,,4 to 6,,27.2
 1998,,,,,,,7+,,36.4
 1998,,,,,,,,< 2 years,57.6
 1998,,,,,,,,2-3 years,22.7
@@ -151,7 +151,7 @@ Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,P
 1993,,,Northern,,,,,,72.7
 1993,,,Upper East,,,,,,-40.7
 1993,,,Upper West,,,,,,46.2
-1993,,,,< 20,,,,,59.3
+1993,,,,Under 20,,,,,59.3
 1993,,,,20-29,,,,,41.9
 1993,,,,30-39,,,,,44.8
 1993,,,,40-49,,,,,-63.3
@@ -160,8 +160,8 @@ Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,P
 1993,,,,,Middle/JSS,,,,35.4
 1993,,,,,Secondary+,,,,-28.2
 1993,,,,,,,1,,52.5
-1993,,,,,,,43161,,37.4
-1993,,,,,,,43255,,41.5
+1993,,,,,,,2 to 3,,37.4
+1993,,,,,,,4 to 6,,41.5
 1993,,,,,,,7+,,72.1
 1993,,,,,,,,< 2 years,80.7
 1993,,,,,,,,2-3 years,37.1
