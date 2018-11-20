@@ -1,109 +1,109 @@
-Year,Location,Sex,Geography,Age,Value
-2014,,,,,4.7
-2014,Urban,,,,3.5
-2014,Rural,,,,5.6
-2008,,,,,8.5
-2008,Urban,,,,7.6
-2008,Rural,,,,9.1
-2003,,,,,7.1
-2003,Urban,,,,6.6
-2003,Rural,,,,7.4
-1998,,,,,9.5
-1998,Urban,,,,6.5
-1998,Rural,,,,10.5
-1993,,,,,11.4
-1993,Urban,,,,8.6
-1993,Rural,,,,12.6
-2014,,Male,,,4.3
-2014,,Female,,,5.1
-2008,,Male,,,9.2
-2008,,Female,,,7.7
-2003,,Male,,,7.2
-2003,,Female,,,7.1
-1998,,Male,,,10.4
-1998,,Female,,,8.7
-1993,,Male,,,12.1
-1993,,Female,,,10.8
-2014,,,Western,,3.9
-2014,,,Central,,7.7
-2014,,,Greater Accra,,3.7
-2014,,,Volta,,2.5
-2014,,,Eastern,,3.2
-2014,,,Ashanti,,3.5
-2014,,,Brong Ahafo,,4.5
-2014,,,Northern,,6.3
-2014,,,Upper East,,9.4
-2014,,,Upper West,,4.4
-2008,,,Western,,5.6
-2008,,,Central,,12
-2008,,,Greater Accra,,5.9
-2008,,,Volta,,5.2
-2008,,,Eastern,,6.4
-2008,,,Ashanti,,9.2
-2008,,,Brong Ahafo,,5.4
-2008,,,Northern,,12.9
-2008,,,Upper East,,10.8
-2008,,,Upper West,,13.9
-2003,,,Western,,5.3
-2003,,,Central,,3
-2003,,,Greater Accra,,7.2
-2003,,,Volta,,13.9
-2003,,,Eastern,,6.2
-2003,,,Ashanti,,6.7
-2003,,,Brong Ahafo,,5.7
-2003,,,Northern,,6.6
-2003,,,Upper East,,12.9
-2003,,,Upper West,,11
-1998,,,Western,,9.2
-1998,,,Central,,10.3
-1998,,,Greater Accra,,5.5
-1998,,,Volta,,15.2
-1998,,,Eastern,,8.7
-1998,,,Ashanti,,9.2
-1998,,,Brong Ahafo,,8.1
-1998,,,Northern,,12.7
-1998,,,Upper East,,7.1
-1998,,,Upper West,,8.2
-1993,,,Western,,13
-1993,,,Central,,11.5
-1993,,,Greater Accra,,7.9
-1993,,,Volta,,10.4
-1993,,,Eastern,,5.9
-1993,,,Ashanti,,8.4
-1993,,,Brong Ahafo,,13
-1993,,,Northern,,19
-1993,,,Upper East,,20.6
-1993,,,Upper West,,14.5
-2014,,,,<6 months,6.9
-2014,,,,6-8 months,10.2
-2014,,,,9-11 months,10.6
-2014,,,,12-17 months,5.1
-2014,,,,18-23 months,8.1
-2014,,,,24-35 months,4.3
-2014,,,,36-47 months,1.4
-2014,,,,48-59 months,2.4
-2008,,,,<6 months,16.1
-2008,,,,6-8 months,28.9
-2008,,,,9-11 months,20.8
-2008,,,,12-17 months,12.8
-2008,,,,18-23 months,9.6
-2008,,,,24-35 months,3.8
-2008,,,,36-47 months,4.1
-2008,,,,48-59 months,3.4
-2003,,,,<6 months,5.9
-2003,,,,6-9 months,13.5
-2003,,,,10-11 months,16.3
-2003,,,,12-23 months,12.6
-2003,,,,24-35 months,5.5
-2003,,,,36-47 months,3.8
-2003,,,,48-59 months,3.4
-1998,,,,< 6 months,3.3
-1998,,,,6-11 months,16.1
-1998,,,,12-23 months,20.1
-1998,,,,24-35 months,7.4
-1998,,,,36-47 months,3.2
-1998,,,,48-59 months,4
-1993,,,,<6 months,5.1
-1993,,,,6-11 months,14.8
-1993,,,,12-23 months,17.3
-1993,,,,24-35 months,7.1
+Year,Units,Location,Sex,Geography,Age,Value
+2014,Percent,,,,,4.7
+2014,Percent,Urban,,,,3.5
+2014,Percent,Rural,,,,5.6
+2008,Percent,,,,,8.5
+2008,Percent,Urban,,,,7.6
+2008,Percent,Rural,,,,9.1
+2003,Percent,,,,,7.1
+2003,Percent,Urban,,,,6.6
+2003,Percent,Rural,,,,7.4
+1998,Percent,,,,,9.5
+1998,Percent,Urban,,,,6.5
+1998,Percent,Rural,,,,10.5
+1993,Percent,,,,,11.4
+1993,Percent,Urban,,,,8.6
+1993,Percent,Rural,,,,12.6
+2014,Percent,,Male,,,4.3
+2014,Percent,,Female,,,5.1
+2008,Percent,,Male,,,9.2
+2008,Percent,,Female,,,7.7
+2003,Percent,,Male,,,7.2
+2003,Percent,,Female,,,7.1
+1998,Percent,,Male,,,10.4
+1998,Percent,,Female,,,8.7
+1993,Percent,,Male,,,12.1
+1993,Percent,,Female,,,10.8
+2014,Percent,,,Western,,3.9
+2014,Percent,,,Central,,7.7
+2014,Percent,,,Greater Accra,,3.7
+2014,Percent,,,Volta,,2.5
+2014,Percent,,,Eastern,,3.2
+2014,Percent,,,Ashanti,,3.5
+2014,Percent,,,Brong Ahafo,,4.5
+2014,Percent,,,Northern,,6.3
+2014,Percent,,,Upper East,,9.4
+2014,Percent,,,Upper West,,4.4
+2008,Percent,,,Western,,5.6
+2008,Percent,,,Central,,12
+2008,Percent,,,Greater Accra,,5.9
+2008,Percent,,,Volta,,5.2
+2008,Percent,,,Eastern,,6.4
+2008,Percent,,,Ashanti,,9.2
+2008,Percent,,,Brong Ahafo,,5.4
+2008,Percent,,,Northern,,12.9
+2008,Percent,,,Upper East,,10.8
+2008,Percent,,,Upper West,,13.9
+2003,Percent,,,Western,,5.3
+2003,Percent,,,Central,,3
+2003,Percent,,,Greater Accra,,7.2
+2003,Percent,,,Volta,,13.9
+2003,Percent,,,Eastern,,6.2
+2003,Percent,,,Ashanti,,6.7
+2003,Percent,,,Brong Ahafo,,5.7
+2003,Percent,,,Northern,,6.6
+2003,Percent,,,Upper East,,12.9
+2003,Percent,,,Upper West,,11
+1998,Percent,,,Western,,9.2
+1998,Percent,,,Central,,10.3
+1998,Percent,,,Greater Accra,,5.5
+1998,Percent,,,Volta,,15.2
+1998,Percent,,,Eastern,,8.7
+1998,Percent,,,Ashanti,,9.2
+1998,Percent,,,Brong Ahafo,,8.1
+1998,Percent,,,Northern,,12.7
+1998,Percent,,,Upper East,,7.1
+1998,Percent,,,Upper West,,8.2
+1993,Percent,,,Western,,13
+1993,Percent,,,Central,,11.5
+1993,Percent,,,Greater Accra,,7.9
+1993,Percent,,,Volta,,10.4
+1993,Percent,,,Eastern,,5.9
+1993,Percent,,,Ashanti,,8.4
+1993,Percent,,,Brong Ahafo,,13
+1993,Percent,,,Northern,,19
+1993,Percent,,,Upper East,,20.6
+1993,Percent,,,Upper West,,14.5
+2014,Percent,,,,<6 months,6.9
+2014,Percent,,,,6-8 months,10.2
+2014,Percent,,,,9-11 months,10.6
+2014,Percent,,,,12-17 months,5.1
+2014,Percent,,,,18-23 months,8.1
+2014,Percent,,,,24-35 months,4.3
+2014,Percent,,,,36-47 months,1.4
+2014,Percent,,,,48-59 months,2.4
+2008,Percent,,,,<6 months,16.1
+2008,Percent,,,,6-8 months,28.9
+2008,Percent,,,,9-11 months,20.8
+2008,Percent,,,,12-17 months,12.8
+2008,Percent,,,,18-23 months,9.6
+2008,Percent,,,,24-35 months,3.8
+2008,Percent,,,,36-47 months,4.1
+2008,Percent,,,,48-59 months,3.4
+2003,Percent,,,,<6 months,5.9
+2003,Percent,,,,6-9 months,13.5
+2003,Percent,,,,10-11 months,16.3
+2003,Percent,,,,12-23 months,12.6
+2003,Percent,,,,24-35 months,5.5
+2003,Percent,,,,36-47 months,3.8
+2003,Percent,,,,48-59 months,3.4
+1998,Percent,,,,< 6 months,3.3
+1998,Percent,,,,6-11 months,16.1
+1998,Percent,,,,12-23 months,20.1
+1998,Percent,,,,24-35 months,7.4
+1998,Percent,,,,36-47 months,3.2
+1998,Percent,,,,48-59 months,4
+1993,Percent,,,,<6 months,5.1
+1993,Percent,,,,6-11 months,14.8
+1993,Percent,,,,12-23 months,17.3
+1993,Percent,,,,24-35 months,7.1

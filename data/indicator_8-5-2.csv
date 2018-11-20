@@ -1,7 +1,392 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Location,Sex,Age,Geography,Highest Education Level,Disability,Value
+2017,Percent,,,,,,,14.1
+2017,Percent,,,,Western,,,12.7
+2017,Percent,,,,Central,,,11.7
+2017,Percent,,,,Greater Accra,,,17
+2017,Percent,,,,Volta,,,8.7
+2017,Percent,,,,Eastern,,,12.7
+2017,Percent,,,,Ashanti,,,15.5
+2017,Percent,,,,Brong Ahafo,,,9
+2017,Percent,,,,Northern,,,14.7
+2017,Percent,,,,Upper East,,,24.8
+2017,Percent,,,,Upper West,,,23.2
+2017,Percent,Urban,,,,,,16.7
+2017,Percent,Urban,,,Western,,,19.7
+2017,Percent,Urban,,,Central,,,13.5
+2017,Percent,Urban,,,Greater Accra,,,17.5
+2017,Percent,Urban,,,Volta,,,9.9
+2017,Percent,Urban,,,Eastern,,,17.1
+2017,Percent,Urban,,,Ashanti,,,17.5
+2017,Percent,Urban,,,Brong Ahafo,,,11.3
+2017,Percent,Urban,,,Northern,,,20.7
+2017,Percent,Urban,,,Upper East,,,20
+2017,Percent,Urban,,,Upper West,,,24.9
+2017,Percent,Rural,,,,,,11.4
+2017,Percent,Rural,,,Western,,,7.6
+2017,Percent,Rural,,,Central,,,10
+2017,Percent,Rural,,,Greater Accra,,,12.3
+2017,Percent,Rural,,,Volta,,,8.1
+2017,Percent,Rural,,,Eastern,,,9.6
+2017,Percent,Rural,,,Ashanti,,,12.2
+2017,Percent,Rural,,,Brong Ahafo,,,7.2
+2017,Percent,Rural,,,Northern,,,12
+2017,Percent,Rural,,,Upper East,,,26.1
+2017,Percent,Rural,,,Upper West,,,22.9
+2017,Percent,,Male,,,,,11.4
+2017,Percent,,Male,,Western,,,10.1
+2017,Percent,,Male,,Central,,,8.9
+2017,Percent,,Male,,Greater Accra,,,15.1
+2017,Percent,,Male,,Volta,,,6.5
+2017,Percent,,Male,,Eastern,,,10
+2017,Percent,,Male,,Ashanti,,,11.1
+2017,Percent,,Male,,Brong Ahafo,,,6.2
+2017,Percent,,Male,,Northern,,,12.6
+2017,Percent,,Male,,Upper East,,,25.7
+2017,Percent,,Male,,Upper West,,,19.7
+2017,Percent,,Female,,,,,16.5
+2017,Percent,,Female,,Western,,,15.1
+2017,Percent,,Female,,Central,,,13.8
+2017,Percent,,Female,,Greater Accra,,,18.8
+2017,Percent,,Female,,Volta,,,10.6
+2017,Percent,,Female,,Eastern,,,15.2
+2017,Percent,,Female,,Ashanti,,,19.4
+2017,Percent,,Female,,Brong Ahafo,,,11.6
+2017,Percent,,Female,,Northern,,,16.5
+2017,Percent,,Female,,Upper East,,,24.1
+2017,Percent,,Female,,Upper West,,,26.7
+2017,Percent,Urban,Male,,,,,13.8
+2017,Percent,Urban,Male,,Western,,,16.4
+2017,Percent,Urban,Male,,Central,,,10.6
+2017,Percent,Urban,Male,,Greater Accra,,,15.5
+2017,Percent,Urban,Male,,Volta,,,8.1
+2017,Percent,Urban,Male,,Eastern,,,14.1
+2017,Percent,Urban,Male,,Ashanti,,,13.8
+2017,Percent,Urban,Male,,Brong Ahafo,,,8.3
+2017,Percent,Urban,Male,,Northern,,,15.4
+2017,Percent,Urban,Male,,Upper East,,,17.2
+2017,Percent,Urban,Male,,Upper West,,,22.2
+2017,Percent,Urban,Female,,,,,19.2
+2017,Percent,Urban,Female,,Western,,,22.3
+2017,Percent,Urban,Female,,Central,,,15.7
+2017,Percent,Urban,Female,,Greater Accra,,,19.3
+2017,Percent,Urban,Female,,Volta,,,11.3
+2017,Percent,Urban,Female,,Eastern,,,19.5
+2017,Percent,Urban,Female,,Ashanti,,,20.8
+2017,Percent,Urban,Female,,Brong Ahafo,,,13.7
+2017,Percent,Urban,Female,,Northern,,,25.7
+2017,Percent,Urban,Female,,Upper East,,,22.2
+2017,Percent,Urban,Female,,Upper West,,,27.4
+2017,Percent,Rural,Male,,,,,9
+2017,Percent,Rural,Male,,Western,,,6.1
+2017,Percent,Rural,Male,,Central,,,7.4
+2017,Percent,Rural,Male,,Greater Accra,,,10.9
+2017,Percent,Rural,Male,,Volta,,,5.8
+2017,Percent,Rural,Male,,Eastern,,,7.3
+2017,Percent,Rural,Male,,Ashanti,,,6.6
+2017,Percent,Rural,Male,,Brong Ahafo,,,4.6
+2017,Percent,Rural,Male,,Northern,,,11.4
+2017,Percent,Rural,Male,,Upper East,,,28
+2017,Percent,Rural,Male,,Upper West,,,19.2
+2017,Percent,Rural,Female,,,,,13.5
+2017,Percent,Rural,Female,,Western,,,9.2
+2017,Percent,Rural,Female,,Central,,,12.2
+2017,Percent,Rural,Female,,Greater Accra,,,13.4
+2017,Percent,Rural,Female,,Volta,,,10.2
+2017,Percent,Rural,Female,,Eastern,,,11.8
+2017,Percent,Rural,Female,,Ashanti,,,17.2
+2017,Percent,Rural,Female,,Brong Ahafo,,,9.7
+2017,Percent,Rural,Female,,Northern,,,12.5
+2017,Percent,Rural,Female,,Upper East,,,24.6
+2017,Percent,Rural,Female,,Upper West,,,26.5
+2017,Percent,,,15-24,,,,26.4
+2017,Percent,,,25-44,,,,11.6
+2017,Percent,,,45-64,,,,8.4
+2017,Percent,,,65+,,,,16.7
+2017,Percent,Urban,,15-24,,,,34.8
+2017,Percent,Urban,,25-44,,,,13.4
+2017,Percent,Urban,,45-64,,,,9.8
+2017,Percent,Urban,,65+,,,,21.2
+2017,Percent,Rural,,15-24,,,,19.5
+2017,Percent,Rural,,25-44,,,,9.4
+2017,Percent,Rural,,45-64,,,,6.8
+2017,Percent,Rural,,65+,,,,13.5
+2017,Percent,,Male,15-24,,,,22.7
+2017,Percent,,Male,25-44,,,,8.1
+2017,Percent,,Male,45-64,,,,7.1
+2017,Percent,,Male,65+,,,,17.5
+2017,Percent,,Female,15-24,,,,29.9
+2017,Percent,,Female,25-44,,,,14.7
+2017,Percent,,Female,45-64,,,,9.5
+2017,Percent,,Female,65+,,,,16
+2017,Percent,Urban,Male,15-24,,,,33.5
+2017,Percent,Urban,Male,25-44,,,,9.5
+2017,Percent,Urban,Male,45-64,,,,7.7
+2017,Percent,Urban,Male,65+,,,,24.7
+2017,Percent,Urban,Female,15-24,,,,35.9
+2017,Percent,Urban,Female,25-44,,,,16.9
+2017,Percent,Urban,Female,45-64,,,,11.7
+2017,Percent,Urban,Female,65+,,,,18.5
+2017,Percent,Rural,Male,15-24,,,,15
+2017,Percent,Rural,Male,25-44,,,,6.3
+2017,Percent,Rural,Male,45-64,,,,6.5
+2017,Percent,Rural,Male,65+,,,,12.7
+2017,Percent,Rural,Female,15-24,,,,24.2
+2017,Percent,Rural,Female,25-44,,,,12
+2017,Percent,Rural,Female,45-64,,,,7
+2017,Percent,Rural,Female,65+,,,,14.1
+2017,Percent,,,,,,Sight only,20.2
+2017,Percent,,,,,,Hearing only,16
+2017,Percent,,,,,,Speech only,3.9
+2017,Percent,,,,,,Physical only,13.7
+2017,Percent,,,,,,Intellectual only,4.1
+2017,Percent,,,,,,Emotional only,24.6
+2017,Percent,Urban,,,,,Sight only,24.4
+2017,Percent,Urban,,,,,Hearing only,12.2
+2017,Percent,Urban,,,,,Physical only,13.9
+2017,Percent,Urban,,,,,Emotional only,29.5
+2017,Percent,Rural,,,,,Sight only,18.1
+2017,Percent,Rural,,,,,Hearing only,16.8
+2017,Percent,Rural,,,,,Speech only,5.7
+2017,Percent,Rural,,,,,Physical only,13.5
+2017,Percent,Rural,,,,,Intellectual only,9.8
+2017,Percent,Rural,,,,,Emotional only,14.4
+2017,Percent,,Male,,,,Sight only,24.2
+2017,Percent,,Male,,,,Hearing only,13.5
+2017,Percent,,Male,,,,Physical only,8.6
+2017,Percent,,Male,,,,Emotional only,8
+2017,Percent,,Female,,,,Sight only,15.9
+2017,Percent,,Female,,,,Hearing only,18.9
+2017,Percent,,Female,,,,Speech only,8.1
+2017,Percent,,Female,,,,Physical only,19.2
+2017,Percent,,Female,,,,Intellectual only,7.8
+2017,Percent,,Female,,,,Emotional only,47.9
+2017,Percent,Urban,Male,,,,Sight only,30.8
+2017,Percent,Urban,Male,,,,Physical only,5.8
+2017,Percent,Urban,Female,,,,Sight only,19.9
+2017,Percent,Urban,Female,,,,Physical only,24.3
+2017,Percent,Urban,Female,,,,Emotional only,61.2
+2017,Percent,Rural,Male,,,,Sight only,21.9
+2017,Percent,Rural,Male,,,,Hearing only,10.2
+2017,Percent,Rural,Male,,,,Physical only,11.4
+2017,Percent,Rural,Male,,,,Emotional only,19.9
+2017,Percent,Rural,Female,,,,Sight only,13.2
+2017,Percent,Rural,Female,,,,Hearing only,26.6
+2017,Percent,Rural,Female,,,,Speech only,13.9
+2017,Percent,Rural,Female,,,,Physical only,15.5
+2017,Percent,Rural,Female,,,,Intellectual only,22.2
+2013,Percent,,,,,,,5.2
+2013,Percent,,,,Western,,,5.6
+2013,Percent,,,,Central,,,4.6
+2013,Percent,,,,Greater Accra,,,7.2
+2013,Percent,,,,Volta,,,3.3
+2013,Percent,,,,Eastern,,,4.3
+2013,Percent,,,,Ashanti,,,4.6
+2013,Percent,,,,Brong Ahafo,,,2.9
+2013,Percent,,,,Northern,,,4.6
+2013,Percent,,,,Upper East,,,10.8
+2013,Percent,,,,Upper West,,,7.6
+2013,Percent,Urban,,,,,,6.5
+2013,Percent,Urban,,,Western,,,6.2
+2013,Percent,Urban,,,Central,,,7
+2013,Percent,Urban,,,Greater Accra,,,7.2
+2013,Percent,Urban,,,Volta,,,4.9
+2013,Percent,Urban,,,Eastern,,,6.7
+2013,Percent,Urban,,,Ashanti,,,6.8
+2013,Percent,Urban,,,Brong Ahafo,,,4.3
+2013,Percent,Urban,,,Northern,,,6
+2013,Percent,Urban,,,Upper East,,,8.3
+2013,Percent,Urban,,,Upper West,,,6.4
+2013,Percent,Rural,,,,,,3.9
+2013,Percent,Rural,,,Western,,,5.2
+2013,Percent,Rural,,,Central,,,2.9
+2013,Percent,Rural,,,Greater Accra,,,5.9
+2013,Percent,Rural,,,Volta,,,2.6
+2013,Percent,Rural,,,Eastern,,,2.3
+2013,Percent,Rural,,,Ashanti,,,2.3
+2013,Percent,Rural,,,Brong Ahafo,,,1.7
+2013,Percent,Rural,,,Northern,,,4
+2013,Percent,Rural,,,Upper East,,,11.4
+2013,Percent,Rural,,,Upper West,,,7.8
+2013,Percent,,Male,,,,,4.8
+2013,Percent,,Male,,Western,,,5.1
+2013,Percent,,Male,,Central,,,5.5
+2013,Percent,,Male,,Greater Accra,,,6.9
+2013,Percent,,Male,,Volta,,,2.9
+2013,Percent,,Male,,Eastern,,,2.5
+2013,Percent,,Male,,Ashanti,,,4.6
+2013,Percent,,Male,,Brong Ahafo,,,2.5
+2013,Percent,,Male,,Northern,,,3.2
+2013,Percent,,Male,,Upper East,,,10.5
+2013,Percent,,Male,,Upper West,,,8.8
+2013,Percent,,Female,,,,,5.5
+2013,Percent,,Female,,Western,,,6.2
+2013,Percent,,Female,,Central,,,3.9
+2013,Percent,,Female,,Greater Accra,,,7.4
+2013,Percent,,Female,,Volta,,,3.6
+2013,Percent,,Female,,Eastern,,,5.9
+2013,Percent,,Female,,Ashanti,,,4.7
+2013,Percent,,Female,,Brong Ahafo,,,3.4
+2013,Percent,,Female,,Northern,,,5.9
+2013,Percent,,Female,,Upper East,,,11
+2013,Percent,,Female,,Upper West,,,6.5
+2013,Percent,Urban,Male,,,,,6.1
+2013,Percent,Urban,Male,,Western,,,6.2
+2013,Percent,Urban,Male,,Central,,,7.1
+2013,Percent,Urban,Male,,Greater Accra,,,7
+2013,Percent,Urban,Male,,Volta,,,4.2
+2013,Percent,Urban,Male,,Eastern,,,4.6
+2013,Percent,Urban,Male,,Ashanti,,,7.4
+2013,Percent,Urban,Male,,Brong Ahafo,,,3.5
+2013,Percent,Urban,Male,,Northern,,,3.1
+2013,Percent,Urban,Male,,Upper East,,,6.4
+2013,Percent,Urban,Male,,Upper West,,,2.2
+2013,Percent,Urban,Female,,,,,6.9
+2013,Percent,Urban,Female,,Western,,,6.1
+2013,Percent,Urban,Female,,Central,,,6.9
+2013,Percent,Urban,Female,,Greater Accra,,,7.4
+2013,Percent,Urban,Female,,Volta,,,5.5
+2013,Percent,Urban,Female,,Eastern,,,8.4
+2013,Percent,Urban,Female,,Ashanti,,,6.2
+2013,Percent,Urban,Female,,Brong Ahafo,,,4.9
+2013,Percent,Urban,Female,,Northern,,,8.5
+2013,Percent,Urban,Female,,Upper East,,,10.1
+2013,Percent,Urban,Female,,Upper West,,,10.3
+2013,Percent,Rural,Male,,,,,3.6
+2013,Percent,Rural,Male,,Western,,,4.3
+2013,Percent,Rural,Male,,Central,,,4.5
+2013,Percent,Rural,Male,,Greater Accra,,,4.3
+2013,Percent,Rural,Male,,Volta,,,2.5
+2013,Percent,Rural,Male,,Eastern,,,1.1
+2013,Percent,Rural,Male,,Ashanti,,,1.6
+2013,Percent,Rural,Male,,Brong Ahafo,,,1.6
+2013,Percent,Rural,Male,,Northern,,,3.3
+2013,Percent,Rural,Male,,Upper East,,,11.5
+2013,Percent,Rural,Male,,Upper West,,,9.9
+2013,Percent,Rural,Female,,,,,4.1
+2013,Percent,Rural,Female,,Western,,,6.2
+2013,Percent,Rural,Female,,Central,,,1.5
+2013,Percent,Rural,Female,,Greater Accra,,,7.5
+2013,Percent,Rural,Female,,Volta,,,2.8
+2013,Percent,Rural,Female,,Eastern,,,3.6
+2013,Percent,Rural,Female,,Ashanti,,,2.9
+2013,Percent,Rural,Female,,Brong Ahafo,,,1.9
+2013,Percent,Rural,Female,,Northern,,,4.7
+2013,Percent,Rural,Female,,Upper East,,,11.3
+2013,Percent,Rural,Female,,Upper West,,,5.8
+2013,Percent,,,15-24,,,,10.9
+2013,Percent,,,25-44,,,,3.8
+2013,Percent,,,45-64,,,,3
+2013,Percent,,,65+,,,,2.5
+2013,Percent,Urban,,15-24,,,,16.3
+2013,Percent,Urban,,25-44,,,,4.6
+2013,Percent,Urban,,45-64,,,,3.5
+2013,Percent,Urban,,65+,,,,2.3
+2013,Percent,Rural,,15-24,,,,7.1
+2013,Percent,Rural,,25-44,,,,2.8
+2013,Percent,Rural,,45-64,,,,2.5
+2013,Percent,Rural,,65+,,,,2.7
+2013,Percent,,Male,15-24,,,,10.2
+2013,Percent,,Male,25-44,,,,3.3
+2013,Percent,,Male,45-64,,,,2.8
+2013,Percent,,Male,65+,,,,2.6
+2013,Percent,,Female,15-24,,,,11.7
+2013,Percent,,Female,25-44,,,,4.1
+2013,Percent,,Female,45-64,,,,3.2
+2013,Percent,,Female,65+,,,,2.5
+2013,Percent,Urban,Male,15-24,,,,15.8
+2013,Percent,Urban,Male,25-44,,,,4.1
+2013,Percent,Urban,Male,45-64,,,,3.2
+2013,Percent,Urban,Male,65+,,,,1.9
+2013,Percent,Urban,Female,15-24,,,,16.7
+2013,Percent,Urban,Female,25-44,,,,5
+2013,Percent,Urban,Female,45-64,,,,3.8
+2013,Percent,Urban,Female,65+,,,,2.5
+2013,Percent,Rural,Male,15-24,,,,6.6
+2013,Percent,Rural,Male,25-44,,,,2.3
+2013,Percent,Rural,Male,45-64,,,,2.3
+2013,Percent,Rural,Male,65+,,,,2.9
+2013,Percent,Rural,Female,15-24,,,,7.7
+2013,Percent,Rural,Female,25-44,,,,3.1
+2013,Percent,Rural,Female,45-64,,,,2.6
+2013,Percent,Rural,Female,65+,,,,2.5
+2013,Percent,,,,,Never been to school,,3.5
+2013,Percent,,,,,Less than MSLC/BECE,,4.5
+2013,Percent,,,,,MSLC/BECE,,4.7
+2013,Percent,,,,,Secondary,,11.7
+2013,Percent,,,,,Vocational/Tech/Comm.,,6.1
+2013,Percent,,,,,Teacher Training/Agric./Nursing/Certificate,,2.8
+2013,Percent,,,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,9.1
+2013,Percent,,,,,Bachelor Degree,,5.9
+2013,Percent,,,,,Post Graduate,,2.7
+2013,Percent,Urban,,,,Never been to school,,3.4
+2013,Percent,Urban,,,,Less than MSLC/BECE,,6
+2013,Percent,Urban,,,,MSLC/BECE,,5.5
+2013,Percent,Urban,,,,Secondary,,13
+2013,Percent,Urban,,,,Vocational/Tech/Comm.,,6.5
+2013,Percent,Urban,,,,Teacher Training/Agric./Nursing/Certificate,,2.5
+2013,Percent,Urban,,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,9.5
+2013,Percent,Urban,,,,Bachelor Degree,,6.4
+2013,Percent,Urban,,,,Post Graduate,,2.9
+2013,Percent,Rural,,,,Never been to school,,3.5
+2013,Percent,Rural,,,,Less than MSLC/BECE,,3.5
+2013,Percent,Rural,,,,MSLC/BECE,,3.7
+2013,Percent,Rural,,,,Secondary,,8.4
+2013,Percent,Rural,,,,Vocational/Tech/Comm.,,4.4
+2013,Percent,Rural,,,,Teacher Training/Agric./Nursing/Certificate,,3.4
+2013,Percent,Rural,,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,7.7
+2013,Percent,Rural,,,,Bachelor Degree,,1.5
+2013,Percent,Rural,,,,Post Graduate,,0
+2013,Percent,,Male,,,Never been to school,,2.9
+2013,Percent,,Male,,,Less than MSLC/BECE,,4.2
+2013,Percent,,Male,,,MSLC/BECE,,3.3
+2013,Percent,,Male,,,Secondary,,10.8
+2013,Percent,,Male,,,Vocational/Tech/Comm.,,6.3
+2013,Percent,,Male,,,Teacher Training/Agric./Nursing/Certificate,,3.4
+2013,Percent,,Male,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,10.6
+2013,Percent,,Male,,,Bachelor Degree,,5.9
+2013,Percent,,Male,,,Post Graduate,,3.1
+2013,Percent,,Female,,,Never been to school,,3.8
+2013,Percent,,Female,,,Less than MSLC/BECE,,4.7
+2013,Percent,,Female,,,MSLC/BECE,,6.3
+2013,Percent,,Female,,,Secondary,,13.3
+2013,Percent,,Female,,,Vocational/Tech/Comm.,,5.9
+2013,Percent,,Female,,,Teacher Training/Agric./Nursing/Certificate,,2.1
+2013,Percent,,Female,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,6.5
+2013,Percent,,Female,,,Bachelor Degree,,5.9
+2013,Percent,,Female,,,Post Graduate,,0
+2013,Percent,Urban,Male,,,Never been to school,,1.4
+2013,Percent,Urban,Male,,,Less than MSLC/BECE,,5
+2013,Percent,Urban,Male,,,MSLC/BECE,,4.1
+2013,Percent,Urban,Male,,,Secondary,,12.2
+2013,Percent,Urban,Male,,,Vocational/Tech/Comm.,,7.2
+2013,Percent,Urban,Male,,,Teacher Training/Agric./Nursing/Certificate,,3.5
+2013,Percent,Urban,Male,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,10.9
+2013,Percent,Urban,Male,,,Bachelor Degree,,6.4
+2013,Percent,Urban,Male,,,Post Graduate,,3.4
+2013,Percent,Urban,Female,,,Never been to school,,4.2
+2013,Percent,Urban,Female,,,Less than MSLC/BECE,,6.5
+2013,Percent,Urban,Female,,,MSLC/BECE,,7
+2013,Percent,Urban,Female,,,Secondary,,14.1
+2013,Percent,Urban,Female,,,Vocational/Tech/Comm.,,5.6
+2013,Percent,Urban,Female,,,Teacher Training/Agric./Nursing/Certificate,,1.7
+2013,Percent,Urban,Female,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,7
+2013,Percent,Urban,Female,,,Bachelor Degree,,6.3
+2013,Percent,Urban,Female,,,Post Graduate,,0
+2013,Percent,Rural,Male,,,Never been to school,,3.4
+2013,Percent,Rural,Male,,,Less than MSLC/BECE,,3.7
+2013,Percent,Rural,Male,,,MSLC/BECE,,2.5
+2013,Percent,Rural,Male,,,Secondary,,7.7
+2013,Percent,Rural,Male,,,Vocational/Tech/Comm.,,2.5
+2013,Percent,Rural,Male,,,Teacher Training/Agric./Nursing/Certificate,,3.1
+2013,Percent,Rural,Male,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,9.2
+2013,Percent,Rural,Male,,,Bachelor Degree,,1.2
+2013,Percent,Rural,Male,,,Post Graduate,,0
+2013,Percent,Rural,Female,,,Never been to school,,3.6
+2013,Percent,Rural,Female,,,Less than MSLC/BECE,,3.3
+2013,Percent,Rural,Female,,,MSLC/BECE,,5.2
+2013,Percent,Rural,Female,,,Secondary,,10.2
+2013,Percent,Rural,Female,,,Vocational/Tech/Comm.,,7.6
+2013,Percent,Rural,Female,,,Teacher Training/Agric./Nursing/Certificate,,4.2
+2013,Percent,Rural,Female,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,3.4
+2013,Percent,Rural,Female,,,Bachelor Degree,,2.6
+2013,Percent,Rural,Female,,,Post Graduate,,0

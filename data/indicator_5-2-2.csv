@@ -1,6 +1,23 @@
-Year,Relationship,Value
-2015,In-laws,1.4
-2015,Uncle/Aunt,1.4
-2015,Parent,2.8
-2015,Other Relative,4.2
-2015,All other than intimate,9.8
+Year,Units,Geography,Value
+2016,Percent,,0.02
+2017,Percent,,0.01
+2016,Percent,Greater Accra Region,0.04
+2016,Percent,Ashanti Region,0.01
+2016,Percent,Eastern Region,0.02
+2016,Percent,Central Region,0.02
+2016,Percent,Volta Region,0.03
+2016,Percent,Western Region,0.02
+2016,Percent,Brong Ahafo Region,0.01
+2016,Percent,Northern Region,0.01
+2016,Percent,Upper East Region,0.01
+2016,Percent,Upper West Region,0.01
+2017,Percent,Greater Accra Region,0.05
+2017,Percent,Ashanti Region,0.02
+2017,Percent,Eastern Region,0.02
+2017,Percent,Central Region,0.03
+2017,Percent,Volta Region,0.03
+2017,Percent,Western Region,0.02
+2017,Percent,Brong Ahafo Region,0.02
+2017,Percent,Northern Region,0.01
+2017,Percent,Upper East Region,0.01
+2017,Percent,Upper West Region,0.01

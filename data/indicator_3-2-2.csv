@@ -12,8 +12,8 @@ Year,Location,Sex,Geography,Age,Mothers education,Wealth quintile,Birth order,Pr
 2014,,,Ashanti,,,,,,42
 2014,,,Brong Ahafo,,,,,,27
 2014,,,Northern,,,,,,24
-2014,,,Upper East,,,,,,-24
-2014,,,Upper West,,,,,,-37
+2014,,,Upper East,,,,,,24
+2014,,,Upper West,,,,,,37
 2014,,,,Under 20,,,,,84
 2014,,,,20-29,,,,,63
 2014,,,,30-39,,,,,74
@@ -40,23 +40,23 @@ Year,Location,Sex,Geography,Age,Mothers education,Wealth quintile,Birth order,Pr
 2008,,Male,,,,,,,36
 2008,,Female,,,,,,,29
 2008,,,Western,,,,,,40
-2008,,,Central,,,,,,-47
+2008,,,Central,,,,,,47
 2008,,,Greater Accra,,,,,,21
 2008,,,Volta,,,,,,26
 2008,,,Eastern,,,,,,29
 2008,,,Ashanti,,,,,,35
 2008,,,Brong Ahafo,,,,,,27
 2008,,,Northern,,,,,,35
-2008,,,Upper East,,,,,,-17
+2008,,,Upper East,,,,,,17
 2008,,,Upper West,,,,,,45
 2008,,,,Under 20,,,,,43
 2008,,,,20-29,,,,,28
 2008,,,,30-39,,,,,35
-,,,,40-49,,,,,-40
+,,,,40-49,,,,,40
 2008,,,,,No education,,,,38
 2008,,,,,Primary,,,,35
 2008,,,,,Middle/JSS/JHS,,,,23
-2008,,,,,Secondary+,,,,-38
+2008,,,,,Secondary+,,,,38
 2008,,,,,,Lowest,,,31
 2008,,,,,,Second,,,27
 2008,,,,,,Middle,,,44
@@ -76,7 +76,7 @@ Year,Location,Sex,Geography,Age,Mothers education,Wealth quintile,Birth order,Pr
 2003,,Male,,,,,,,46
 2003,,Female,,,,,,,36
 2003,,,Western,,,,,,37
-2003,,,Central,,,,,,-37
+2003,,,Central,,,,,,37
 2003,,,Greater Accra,,,,,,29
 2003,,,Volta,,,,,,44
 2003,,,Eastern,,,,,,42
@@ -88,11 +88,11 @@ Year,Location,Sex,Geography,Age,Mothers education,Wealth quintile,Birth order,Pr
 2003,,,,Under 20,,,,,54
 2003,,,,20-29,,,,,35
 2003,,,,30-39,,,,,42
-2003,,,,40-49,,,,,-62
+2003,,,,40-49,,,,,62
 2003,,,,,No education,,,,37
 2003,,,,,Primary,,,,49
 2003,,,,,Middle/JSS/JHS,,,,43
-2003,,,,,Secondary+,,,,-27
+2003,,,,,Secondary+,,,,27
 2003,,,,,,Lowest,,,37
 2003,,,,,,Second,,,40
 2003,,,,,,Middle,,,49
@@ -117,18 +117,18 @@ Year,Location,Sex,Geography,Age,Mothers education,Wealth quintile,Birth order,Pr
 1998,,,Volta,,,,,,27
 1998,,,Eastern,,,,,,33.8
 1998,,,Ashanti,,,,,,22.3
-1998,,,Brong Ahafo,,,,,,-54.4
+1998,,,Brong Ahafo,,,,,,54.4
 1998,,,Northern,,,,,,26.7
 1998,,,Upper East,,,,,,28.4
 1998,,,Upper West,,,,,,25.5
 1998,,,,Under 20,,,,,48.8
 1998,,,,20-29,,,,,25.3
 1998,,,,30-39,,,,,38.4
-1998,,,,40-49,,,,,-18.4
+1998,,,,40-49,,,,,18.4
 1998,,,,,No education,,,,33.8
 1998,,,,,Primary,,,,41.1
 1998,,,,,Middle/JSS,,,,28.6
-1998,,,,,Secondary+,,,,-10.5
+1998,,,,,Secondary+,,,,10.5
 1998,,,,,,,1,,43.4
 1998,,,,,,,2 to 3,,28.2
 1998,,,,,,,4 to 6,,27.2
@@ -149,16 +149,16 @@ Year,Location,Sex,Geography,Age,Mothers education,Wealth quintile,Birth order,Pr
 1993,,,Ashanti,,,,,,44.4
 1993,,,Brong Ahafo,,,,,,37.1
 1993,,,Northern,,,,,,72.7
-1993,,,Upper East,,,,,,-40.7
+1993,,,Upper East,,,,,,40.7
 1993,,,Upper West,,,,,,46.2
 1993,,,,Under 20,,,,,59.3
 1993,,,,20-29,,,,,41.9
 1993,,,,30-39,,,,,44.8
-1993,,,,40-49,,,,,-63.3
+1993,,,,40-49,,,,,63.3
 1993,,,,,No education,,,,51.5
 1993,,,,,Primary,,,,55.6
 1993,,,,,Middle/JSS,,,,35.4
-1993,,,,,Secondary+,,,,-28.2
+1993,,,,,Secondary+,,,,28.2
 1993,,,,,,,1,,52.5
 1993,,,,,,,2 to 3,,37.4
 1993,,,,,,,4 to 6,,41.5

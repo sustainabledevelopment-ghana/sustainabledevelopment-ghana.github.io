@@ -1,7 +1,67 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Geography,Value
+2010,,79.8
+2011,,59.8
+2012,,58.4
+2013,,56.7
+2014,,47.6
+2015,,43.6
+2010,Ashanti,65.5
+2010,Brong Ahafo,84.8
+2010,Central,87.3
+2010,Eastern,70.7
+2010,Greater Accra,94.1
+2010,Northern,77.2
+2010,Upper east,88.8
+2010,Upper west,80.2
+2010,Volta,75.5
+2010,Western,89.9
+2011,Ashanti,65.4
+2011,Brong Ahafo,42.4
+2011,Central,63.5
+2011,Eastern,61.6
+2011,Greater Accra,87.2
+2011,Northern,49.3
+2011,Upper east,60.3
+2011,Upper west,53.6
+2011,Volta,54.1
+2011,Western,48.8
+2012,Ashanti,64.2
+2012,Brong Ahafo,45.6
+2012,Central,68.8
+2012,Eastern,53.8
+2012,Greater Accra,83.8
+2012,Northern,40.7
+2012,Upper east,61.5
+2012,Upper west,48.7
+2012,Volta,53
+2012,Western,48.2
+2013,Ashanti,64.2
+2013,Brong Ahafo,47.8
+2013,Central,64.7
+2013,Eastern,49.8
+2013,Greater Accra,79.9
+2013,Northern,41.4
+2013,Upper east,58.2
+2013,Upper west,46.7
+2013,Volta,50.5
+2013,Western,45.5
+2014,Ashanti,52.9
+2014,Brong Ahafo,34.1
+2014,Central,56
+2014,Eastern,42.2
+2014,Greater Accra,72.5
+2014,Northern,36.5
+2014,Upper east,56.1
+2014,Upper west,40.2
+2014,Volta,49.5
+2014,Western,38.4
+2015,Ashanti,58.2
+2015,Brong Ahafo,36
+2015,Central,81.7
+2015,Eastern,43.3
+2015,Greater Accra,79.7
+2015,Northern,15.8
+2015,Upper east,18.1
+2015,Upper west,7.6
+2015,Volta,28
+2015,Western,47.9

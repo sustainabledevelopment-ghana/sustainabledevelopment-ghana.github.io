@@ -1,16 +1,31 @@
-Year,Location,Sex,Geography,Value
-2013,,,,13.6
-2013,,Male,,9.7
-2013,,Female,,6.9
-2013,Urban,,,3.9
-2013,Rural,,,23.4
-2013,,,Western,9
-2013,,,Central,10.1
-2013,,,Greater Accra,2.9
-2013,,,Volta,17.2
-2013,,,Eastern,9.6
-2013,,,Ashanti,5.5
-2013,,,Brong Ahafo,13.3
-2013,,,Northern,36
-2013,,,Upper East,31
-2013,,,Upper West,57.6
+Year,Location,Sex,Value
+2017,,,11.9
+2017,,Male,13.6
+2017,,Female,7.6
+2017,Urban,,1.9
+2017,Rural,,22.1
+2017,Western,,3.8
+2017,Central,,4.9
+2017,Greater Accra,,0
+2017,Volta,,16.5
+2017,Eastern,,4.6
+2017,Ashanti,,3.4
+2017,Brong Ahafo,,13.8
+2017,Northern,,39.3
+2017,Upper East,,40.4
+2017,Upper West,,55.6
+2013,,,13.6
+2013,,Male,9.7
+2013,,Female,6.9
+2013,Urban,,3.9
+2013,Rural,,23.4
+2013,Western,,9
+2013,Central,,10.1
+2013,Greater Accra,,2.9
+2013,Volta,,17.2
+2013,Eastern,,9.6
+2013,Ashanti,,5.5
+2013,Brong Ahafo,,13.3
+2013,Northern,,36
+2013,Upper East,,31
+2013,Upper West,,57.6

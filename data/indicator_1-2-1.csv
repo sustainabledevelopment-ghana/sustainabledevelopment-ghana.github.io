@@ -1,45 +1,62 @@
-Year,Geography,Value
-2013,,24.2
-2013,Western,20.9
-2013,Central,18.8
-2013,Greater Accra,5.6
-2013,Volta,33.8
-2013,Eastern,21.7
-2013,Ashanti,14.8
-2013,Brong Ahafo,27.9
-2013,Northern,50.4
-2013,Upper East,44.4
-2013,Upper West,70.7
-2006,,31.9
-2006,Western,22.9
-2006,Central,23.4
-2006,Greater Accra,13.5
-2006,Volta,37.3
-2006,Eastern,17.8
-2006,Ashanti,24
-2006,Brong Ahafo,34
-2006,Northern,55.7
-2006,Upper East,72.9
-2006,Upper West,89.1
-1999,,39.5
-1999,Western,27.3
-1999,Central,48.4
-1999,Greater Accra,5.2
-1999,Volta,37.7
-1999,Eastern,43.7
-1999,Ashanti,27.7
-1999,Brong Ahafo,35.8
-1999,Northern,69.2
-1999,Upper East,88.2
-1999,Upper West,83.9
-1992,,51.7
-1992,Western,59.6
-1992,Central,44.3
-1992,Greater Accra,25.8
-1992,Volta,57
-1992,Eastern,48
-1992,Ashanti,41.2
-1992,Brong Ahafo,65
-1992,Northern,63.4
-1992,Upper East,66.9
-1992,Upper West,88.4
+Year,Units,Location,Geography,Value
+2017,Percent,,,23.4
+2017,Percent,Urban,,7.8
+2017,Percent,Rural,,39.5
+2017,Percent,,Western,21.1
+2017,Percent,,Central,13.8
+2017,Percent,,Greater Accra,2.5
+2017,Percent,,Volta,37.3
+2017,Percent,,Eastern,12.6
+2017,Percent,,Ashanti,11.6
+2017,Percent,,Brong Ahafo,26.8
+2017,Percent,,Northern,61.1
+2017,Percent,,Upper East,54.8
+2017,Percent,,Upper West,70.9
+2013,Percent,,,24.2
+2013,Percent,Urban,,10.6
+2013,Percent,Rural,,37.9
+2013,Percent,,Western,20.9
+2013,Percent,,Central,18.8
+2013,Percent,,Greater Accra,5.6
+2013,Percent,,Volta,33.8
+2013,Percent,,Eastern,21.7
+2013,Percent,,Ashanti,14.8
+2013,Percent,,Brong Ahafo,27.9
+2013,Percent,,Northern,50.4
+2013,Percent,,Upper East,44.4
+2013,Percent,,Upper West,70.7
+2006,Percent,,,31.9
+2006,Percent,Urban,,12.4
+2006,Percent,Rural,,12.4
+2006,Percent,,Western,22.9
+2006,Percent,,Central,23.4
+2006,Percent,,Greater Accra,13.5
+2006,Percent,,Volta,37.3
+2006,Percent,,Eastern,17.8
+2006,Percent,,Ashanti,24
+2006,Percent,,Brong Ahafo,34
+2006,Percent,,Northern,55.7
+2006,Percent,,Upper East,72.9
+2006,Percent,,Upper West,89.1
+1999,Percent,,,39.5
+1999,Percent,,Western,27.3
+1999,Percent,,Central,48.4
+1999,Percent,,Greater Accra,5.2
+1999,Percent,,Volta,37.7
+1999,Percent,,Eastern,43.7
+1999,Percent,,Ashanti,27.7
+1999,Percent,,Brong Ahafo,35.8
+1999,Percent,,Northern,69.2
+1999,Percent,,Upper East,88.2
+1999,Percent,,Upper West,83.9
+1992,Percent,,,51.7
+1992,Percent,,Western,59.6
+1992,Percent,,Central,44.3
+1992,Percent,,Greater Accra,25.8
+1992,Percent,,Volta,57
+1992,Percent,,Eastern,48
+1992,Percent,,Ashanti,41.2
+1992,Percent,,Brong Ahafo,65
+1992,Percent,,Northern,63.4
+1992,Percent,,Upper East,66.9
+1992,Percent,,Upper West,88.4

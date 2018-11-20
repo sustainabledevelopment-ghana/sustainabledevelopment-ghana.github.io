@@ -1,7 +1,228 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Geography,District,Value
+2014,Percent,National,,18.16
+2014,Percent,Ashanti Region,,17.11
+2014,Percent,,Atwima Mponua,5.82
+2014,Percent,,Amansie West,8.09
+2014,Percent,,Amansie Central,7.61
+2014,Percent,,Adansi South,11.89
+2014,Percent,,Obuasi Municipal,23.87
+2014,Percent,,Adansi North,11.31
+2014,Percent,,Bekwai Municipal,10.07
+2014,Percent,,Bosome Freho,11.62
+2014,Percent,,Asante Akim South,13.56
+2014,Percent,,Asante Akim Central Municipal,15.09
+2014,Percent,,Ejisu Juaben Municipal,15.29
+2014,Percent,,Bosumtwi,11.75
+2014,Percent,,Atwima Kwanwoma,15.26
+2014,Percent,,Kumasi Metropolis,19.34
+2014,Percent,,Atwima Nwabiagya,15.96
+2014,Percent,,Ahafo Ano South,13.35
+2014,Percent,,Ahafo Ano North,12.41
+2014,Percent,,Offinso Municipal,18.81
+2014,Percent,,Afigya Kwabre,14.31
+2014,Percent,,Kwabre East,20.72
+2014,Percent,,Afigya Sekyere,10.23
+2014,Percent,,Mampong Municipal,11.83
+2014,Percent,,Sekyere East,14.26
+2014,Percent,,Sekyere Afram Plains,16.05
+2014,Percent,,Sekyere Central,9.58
+2014,Percent,,Ejura Sekye Dumasi,15.47
+2014,Percent,,Offinso North,11.75
+2014,Percent,,Asokore Mampong Municipal,23.71
+2014,Percent,,Asante Akim North,12.83
+2014,Percent,,Sekyere Afram Plains North,7.29
+2014,Percent,Volta Region,,16.86
+2014,Percent,,South Tongu,13.11
+2014,Percent,,Keta Municapal,17.61
+2014,Percent,,Ketu South,23.82
+2014,Percent,,Ketu North,25.18
+2014,Percent,,Akatsi South,21.55
+2014,Percent,,Central Tongu,13.07
+2014,Percent,,Agotime Ziope,12.26
+2014,Percent,,Ho Municipal,14.63
+2014,Percent,,South Dayi,8.38
+2014,Percent,,Kpando Municipal,13.6
+2014,Percent,,Hohoe Municipal,17.38
+2014,Percent,,Biakoye,12.56
+2014,Percent,,Jasikan,11.3
+2014,Percent,,Kadjebi,12.21
+2014,Percent,,Krachi East,28.21
+2014,Percent,,Krachi West,18.4
+2014,Percent,,Nkwanta South,16.02
+2014,Percent,,Nkwanta North,16.92
+2014,Percent,,North Tongu,28.86
+2014,Percent,,Akatsi North,12.8
+2014,Percent,,Adaklu,12.79
+2014,Percent,,Ho West,8.08
+2014,Percent,,Afadzato South,8.88
+2014,Percent,,North Dayi,6.04
+2014,Percent,,Krachi Nchumuru,11.08
+2014,Percent,Western Region,,21.99
+2014,Percent,,Jomoro,11.01
+2014,Percent,,Ellembelle,20.68
+2014,Percent,,Nzema East,11.67
+2014,Percent,,Ahanta West,20.38
+2014,Percent,,Sekondi Takoradi Metropolis,21.58
+2014,Percent,,Shama,16.6
+2014,Percent,,Wassa East,7.34
+2014,Percent,,Tarkwa Nsuaem Municipal,43.17
+2014,Percent,,Prestea/Huni Valley,28.51
+2014,Percent,,Wassa Amenfi East,6.34
+2014,Percent,,Wassa Amenfi West,28.93
+2014,Percent,,Aowin,16.09
+2014,Percent,,Sefwi Akontombra,13.75
+2014,Percent,,Sefwi Wiawso,22.78
+2014,Percent,,Sefwi Bibiani-Ahwiaso Bekwai,29.63
+2014,Percent,,Juabeso,8.92
+2014,Percent,,Bia west,13.75
+2014,Percent,,Mpohor,42.34
+2014,Percent,,Wassa Amenfi Central,11.34
+2014,Percent,,Suaman,15.15
+2014,Percent,,Bodi,13.91
+2014,Percent,,Bia East,13.37
+2014,Percent,Greater Accra Region,,19.39
+2014,Percent,,Ga South Municipal,12.95
+2014,Percent,,Ga West Municipal,16.22
+2014,Percent,,Ga East Municipal,15.31
+2014,Percent,,Accra Metropolis,18.24
+2014,Percent,,Adenta Municipal,34.95
+2014,Percent,,Ledzokuku/Krowor Municipal,19.95
+2014,Percent,,Ashaiman Municipal,16.83
+2014,Percent,,Tema Metropolis,29.03
+2014,Percent,,Shai Osudoku,12.25
+2014,Percent,,Ada East,13.47
+2014,Percent,,Ga Central Municipal,13.85
+2014,Percent,,La Dade Kotopon Municipal,9.92
+2014,Percent,,La Nkwantanang Madina Municipal,15.88
+2014,Percent,,Kpone Katamanso,17.98
+2014,Percent,,Ningo Prampram,21.37
+2014,Percent,,Ada West,20.34
+2014,Percent,Eastern Region,,14.23
+2014,Percent,,Birim South,10.19
+2014,Percent,,Birim Municipal,20.56
+2014,Percent,,West Akim Municipal,12.93
+2014,Percent,,Suhum Municipal,18.45
+2014,Percent,,Nsawam Adoagyiri Municipal,15.09
+2014,Percent,,Akwapem North,7.9
+2014,Percent,,New Juaben Municipal,12.29
+2014,Percent,,Yilo Krobo,15.26
+2014,Percent,,Lower Manya,15.08
+2014,Percent,,Asuogyaman,21.23
+2014,Percent,,Upper Manya,12.57
+2014,Percent,,Fanteakwa,11.55
+2014,Percent,,East Akim Municipal,9.83
+2014,Percent,,Kwaebibirem,16.98
+2014,Percent,,Akyem Mansa,18.97
+2014,Percent,,Birim North,19.26
+2014,Percent,,Atiwa,9.18
+2014,Percent,,Kwahu West Municipal,13.61
+2014,Percent,,Kwahu South,9.74
+2014,Percent,,Kwahu East,6.75
+2014,Percent,,Kwahu Afram Plains North,12.23
+2014,Percent,,Upper West Akyem,16.47
+2014,Percent,,Akwapim South,8.12
+2014,Percent,,Ayensuano,10.47
+2014,Percent,,Denkyembuor,31.55
+2014,Percent,,Kwahu Afram Plains South,8.04
+2014,Percent,Northern Region,,19.26
+2014,Percent,,Bole,11.59
+2014,Percent,,Sawla-Tuna-Kalba,24.87
+2014,Percent,,West Gonja,20.98
+2014,Percent,,Gonja Central,26.13
+2014,Percent,,East Gonja,16.07
+2014,Percent,,Kpandai,13.11
+2014,Percent,,Nanumba South,12.81
+2014,Percent,,Nanumba North,18.47
+2014,Percent,,Zabzugu,18.25
+2014,Percent,,Yendi Municipal,23.66
+2014,Percent,,Tamale Metropolis,21.52
+2014,Percent,,Tolon,18
+2014,Percent,,Savelugu Nanton,15.56
+2014,Percent,,Karaga,17.98
+2014,Percent,,Gushiegu,23.58
+2014,Percent,,Saboba,19.22
+2014,Percent,,Chereponi,14.38
+2014,Percent,,Bunkpurugu Yonyo,12.7
+2014,Percent,,Mamprusi East,12.27
+2014,Percent,,Mamprusi West,18.27
+2014,Percent,,North Gonja,10.72
+2014,Percent,,Kumbumgu,29.75
+2014,Percent,,Sagnerigu Municipal,17.48
+2014,Percent,,Mion,12.5
+2014,Percent,,Tatale,23.59
+2014,Percent,,Mamprugu Moagduri,26.84
+2014,Percent,Upper East Region,,19.31
+2014,Percent,,Builsa North,13.71
+2014,Percent,,Kasena Nankana West,20.5
+2014,Percent,,Kasena Nankana East,11.13
+2014,Percent,,Bolgatanga Municipal,20.7
+2014,Percent,,Talensi,24.03
+2014,Percent,,Bongo,29.79
+2014,Percent,,Bawku West,19.62
+2014,Percent,,Garu Tempane,17.14
+2014,Percent,,Bawku Municipal,17.13
+2014,Percent,,Builsa South,14.47
+2014,Percent,,Nabdam,15.79
+2014,Percent,,Binduri,16.4
+2014,Percent,,Pusiga,30.32
+2014,Percent,Upper West Region,,17.49
+2014,Percent,,Wa West,19.79
+2014,Percent,,Wa Municipal,20.23
+2014,Percent,,Wa East,7.97
+2014,Percent,,Sissala East,13.71
+2014,Percent,,Nadowli-Kaleo,17.5
+2014,Percent,,Jirapa,19.25
+2014,Percent,,Sissala West,14.54
+2014,Percent,,Lambussie Karni,19.14
+2014,Percent,,Lawra,14.11
+2014,Percent,,Daffiama Bussie,14.34
+2014,Percent,,Nandom,14.79
+2014,Percent,Central Region,,14.62
+2014,Percent,,Komenda-Edina-Eguafo-Abirem Municipal,12.12
+2014,Percent,,Cape Coast Metropolis,23.25
+2014,Percent,,Abura-Asebu-Kwamankese,10.86
+2014,Percent,,Mfantsiman,11.75
+2014,Percent,,Ajumako-Enyan-Essiam,7.26
+2014,Percent,,Gomoa West,10.06
+2014,Percent,,Effutu Municipal,12.32
+2014,Percent,,Gomoa East,15.25
+2014,Percent,,Awutu Senya,11.31
+2014,Percent,,Agona East,10.59
+2014,Percent,,Agona West Municipal,14.81
+2014,Percent,,Asikuma-Odoben Brakwa,13.78
+2014,Percent,,Assin South,8.37
+2014,Percent,,Assin North Municipal,13.49
+2014,Percent,,TwifoAti Morkwa,23.75
+2014,Percent,,Upper Denkyira East Municipal,11.22
+2014,Percent,,Upper Denkyira West,15.73
+2014,Percent,,Twifo Heman Lower Denkyira,21.56
+2014,Percent,,Ekumfi,5.45
+2014,Percent,,Awutu Senya East Municipal,14.9
+2014,Percent,Brong Ahafo Region,,16
+2014,Percent,,Asunafo South,13.04
+2014,Percent,,Asunafo North Municipal,31.84
+2014,Percent,,Asutifi North,26.32
+2014,Percent,,Dormaa Municipal,10.64
+2014,Percent,,Dormaa Central Municipal,13.98
+2014,Percent,,Tano South,11.94
+2014,Percent,,Tano North,12.48
+2014,Percent,,Sunyani Municipal,14.02
+2014,Percent,,Sunyani West,13.4
+2014,Percent,,Berekum Municipal,19.51
+2014,Percent,,Jaman South,11.21
+2014,Percent,,Jaman North,9.47
+2014,Percent,,Tain,16.11
+2014,Percent,,Wenchi Municipal,10.94
+2014,Percent,,Techiman Municipal,17.99
+2014,Percent,,Nkoranza South,15.88
+2014,Percent,,Nkoranza North,7.15
+2014,Percent,,Atebubu Amantin,11.6
+2014,Percent,,Sene West,12.37
+2014,Percent,,Pru,19.73
+2014,Percent,,Kintampo South,12.57
+2014,Percent,,Kintampo North Municipal,16.96
+2014,Percent,,Asutifi South,10.75
+2014,Percent,,Dormaa West,9.74
+2014,Percent,,Techiman North,29.05
+2014,Percent,,Banda,31.8
+2014,Percent,,Sene East,7.88

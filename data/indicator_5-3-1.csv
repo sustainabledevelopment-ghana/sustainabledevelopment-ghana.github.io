@@ -1,61 +1,105 @@
-Year,Location,Sex,Geography,Value
-2017,,,,81.1
-2017,Urban,,,92.0
-2017,Rural,,,67.2
-2017,,Male head,,80.7
-2017,,Female head,,81.8
-2017,,,Western,82.9
-2017,,,Central,84.4
-2017,,,Greater Accra,93.7
-2017,,,Volta,75.3
-2017,,,Eastern,73.9
-2017,,,Ashanti,89.3
-2017,,,Brong Ahafo,72.5
-2017,,,Northern,66.1
-2017,,,Upper East,47.7
-2017,,,Upper West,57.8
-2013,,,,70.6
-2013,Urban,,,88.6
-2013,Rural,,,48.3
-2013,,Male head,,69.0
-2013,,Female head,,74.4
-2013,,,Western,72.1
-2013,,,Central,66.9
-2013,,,Greater Accra,90.7
-2013,,,Volta,60.9
-2013,,,Eastern,63.4
-2013,,,Ashanti,81.8
-2013,,,Brong Ahafo,63.0
-2013,,,Northern,47.6
-2013,,,Upper East,33.1
-2013,,,Upper West,42.2
-2006,,,,49.2
-2006,Urban,,,78.5
-2006,Rural,,,26.9
-2006,,Male head,,48.1
-2006,,Female head,,51.8
-2006,,,Western,52.5
-2006,,,Central,42.0
-2006,,,Greater Accra,82.1
-2006,,,Volta,30.8
-2006,,,Eastern,38.5
-2006,,,Ashanti,60.6
-2006,,,Brong Ahafo,48.3
-2006,,,Northern,27.1
-2006,,,Upper East,12.4
-2006,,,Upper West,10.6
-1999,,,,41.0
-1999,Urban,,,78.1
-1999,Rural,,,19.6
-1999,,Male head,,39.5
-1999,,Female head,,44.4
-1999,,,Western,47.4
-1999,,,Central,32.1
-1999,,,Greater Accra,83.9
-1999,,,Volta,30.9
-1999,,,Eastern,24.6
-1999,,,Ashanti,60.9
-1999,,,Brong Ahafo,29.0
-1999,,,Northern,7.9
-1999,,,Upper East,0.0
-1999,,,Upper West,5.7
+Year,Units,Location,Geography,Highest Education Level,Value
+2017,married or in union before age 15,,,,0.4
+2017,married or in union before age 15,Urban,,,0.2
+2017,married or in union before age 15,Rural,,,0.6
+2017,married or in union before age 15,,Western,,0
+2017,married or in union before age 15,,Central,,0.3
+2017,married or in union before age 15,,Greater Accra,,0.3
+2017,married or in union before age 15,,Volta,,1.1
+2017,married or in union before age 15,,Eastern,,0.4
+2017,married or in union before age 15,,Ashanti,,0
+2017,married or in union before age 15,,Brong Ahafo,,0
+2017,married or in union before age 15,,Northern,,1.2
+2017,married or in union before age 15,,Upper East,,0.8
+2017,married or in union before age 15,,Upper West,,1.3
+2017,married or in union before age 15,,,Preschool,0
+2017,married or in union before age 15,,,Primary,0.6
+2017,married or in union before age 15,,,JSS/JHS,0.2
+2017,married or in union before age 15,,,SSS/SHS,0.1
+2013,married or in union before age 15,,,,1.5
+2013,married or in union before age 15,Urban,,,0.7
+2013,married or in union before age 15,Rural,,,2.4
+2013,married or in union before age 15,,Western,,2.9
+2013,married or in union before age 15,,Central,,0
+2013,married or in union before age 15,,Greater Accra,,1.2
+2013,married or in union before age 15,,Volta,,4
+2013,married or in union before age 15,,Eastern,,0.8
+2013,married or in union before age 15,,Ashanti,,1.4
+2013,married or in union before age 15,,Brong Ahafo,,1.9
+2013,married or in union before age 15,,Northern,,0.7
+2013,married or in union before age 15,,Upper East,,1.1
+2013,married or in union before age 15,,Upper West,,1.3
+2013,married or in union before age 15,,,Preschool,2.8
+2013,married or in union before age 15,,,Primary,1.3
+2013,married or in union before age 15,,,JSS/JHS,0.9
+2013,married or in union before age 15,,,SSS/SHS,0.1
+2013,married or in union before age 15,,,Teacher Training/Agric/Nursing Certificate,3.7
+2006,married or in union before age 15,,,,1.1
+2006,married or in union before age 15,Urban,,,0.8
+2006,married or in union before age 15,Rural,,,1.4
+2006,married or in union before age 15,,Western,,1.6
+2006,married or in union before age 15,,Central,,1.1
+2006,married or in union before age 15,,Greater Accra,,0.3
+2006,married or in union before age 15,,Volta,,0
+2006,married or in union before age 15,,Eastern,,1.3
+2006,married or in union before age 15,,Ashanti,,0.9
+2006,married or in union before age 15,,Brong Ahafo,,3
+2006,married or in union before age 15,,Northern,,0.8
+2006,married or in union before age 15,,Upper East,,1.5
+2006,married or in union before age 15,,Upper West,,1.2
+2006,married or in union before age 15,,,None,2.3
+2017,married or in union before age 18,,,,8.1
+2017,married or in union before age 18,Urban,,,4.6
+2017,married or in union before age 18,Rural,,,12.5
+2017,married or in union before age 18,,Western,,6.5
+2017,married or in union before age 18,,Central,,4.9
+2017,married or in union before age 18,,Greater Accra,,3.6
+2017,married or in union before age 18,,Volta,,14.7
+2017,married or in union before age 18,,Eastern,,6.3
+2017,married or in union before age 18,,Ashanti,,7.6
+2017,married or in union before age 18,,Brong Ahafo,,10.7
+2017,married or in union before age 18,,Northern,,12.6
+2017,married or in union before age 18,,Upper East,,14.3
+2017,married or in union before age 18,,Upper West,,8.4
+2017,married or in union before age 18,,,Preschool,44.8
+2017,married or in union before age 18,,,Primary,16.2
+2017,married or in union before age 18,,,JSS/JHS,10.8
+2017,married or in union before age 18,,,SSS/SHS,1.9
+2013,married or in union before age 18,,,Teacher Training/Agric/Nursing Certificate,0.9
+2013,married or in union before age 18,,,,13
+2013,married or in union before age 18,Urban,,,7.1
+2013,married or in union before age 18,Rural,,,20.2
+2013,married or in union before age 18,,Western,,13
+2013,married or in union before age 18,,Central,,14.4
+2013,married or in union before age 18,,Greater Accra,,7.6
+2013,married or in union before age 18,,Volta,,17.8
+2013,married or in union before age 18,,Eastern,,12.4
+2013,married or in union before age 18,,Ashanti,,14.4
+2013,married or in union before age 18,,Brong Ahafo,,12.2
+2013,married or in union before age 18,,Northern,,15.2
+2013,married or in union before age 18,,Upper East,,17.8
+2013,married or in union before age 18,,Upper West,,6.9
+2013,married or in union before age 18,,,None,19.3
+2013,married or in union before age 18,,,Preschool,26.1
+2013,married or in union before age 18,,,Primary,25.8
+2013,married or in union before age 18,,,JSS/JHS,8.8
+2013,married or in union before age 18,,,SSS/SHS,0.7
+2006,married or in union before age 18,,,Secondary,6.1
+2006,married or in union before age 18,,,Vocational/Technical/Commercial,3.7
+2006,married or in union before age 18,,,,12
+2006,married or in union before age 18,Urban,,,8.6
+2006,married or in union before age 18,Rural,,,15.1
+2006,married or in union before age 18,,Western,,15.9
+2006,married or in union before age 18,,Central,,10.1
+2006,married or in union before age 18,,Greater Accra,,6.9
+2006,married or in union before age 18,,Volta,,12.8
+2006,married or in union before age 18,,Eastern,,13.1
+2006,married or in union before age 18,,Ashanti,,14.4
+2006,married or in union before age 18,,Brong Ahafo,,7.5
+2006,married or in union before age 18,,Northern,,15.1
+2006,married or in union before age 18,,Upper East,,14.1
+2006,married or in union before age 18,,Upper West,,15.2
+2006,married or in union before age 18,,,None,17.5
+2006,married or in union before age 18,,,MSLC,7.5
+2006,married or in union before age 18,,,JSS/JHS,6.2
+2006,married or in union before age 18,,,SSS/SHS,1.8

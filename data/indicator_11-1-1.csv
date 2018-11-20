@@ -1,7 +1,53 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Location,Sex,Geography,Value
+2017,Urban,,,81.9
+2017,,Male,,82.3
+2017,,Female,,81.5
+2017,,,Western,77.1
+2017,,,Central,84.2
+2017,,,Greater Accra,72.2
+2017,,,Volta,87
+2017,,,Eastern,86.6
+2017,,,Ashanti,83.2
+2017,,,Brong Ahafo,91.3
+2017,,,Northern,98.5
+2017,,,Upper East,92.8
+2017,,,Upper West,88.6
+2013,Urban,,,83.7
+2013,,Male,,83.9
+2013,,Female,,83.5
+2013,,,Western,83.2
+2013,,,Central,84.7
+2013,,,Greater Accra,73.3
+2013,,,Volta,87.7
+2013,,,Eastern,88.3
+2013,,,Ashanti,84.6
+2013,,,Brong Ahafo,96.9
+2013,,,Northern,96.9
+2013,,,Upper East,93
+2013,,,Upper West,92.2
+2006,Urban,,,93
+2006,,Male,,93.3
+2006,,Female,,92.8
+2006,,,Western,98.3
+2006,,,Central,94.7
+2006,,,Greater Accra,87.2
+2006,,,Volta,93.3
+2006,,,Eastern,95
+2006,,,Ashanti,93.8
+2006,,,Brong Ahafo,97.7
+2006,,,Northern,99.7
+2006,,,Upper East,100
+2006,,,Upper West,85.8
+1999,Urban,,,95.3
+1999,,Male,,95.3
+1999,,Female,,95.3
+1999,,,Western,97.6
+1999,,,Central,98.6
+1999,,,Greater Accra,91.7
+1999,,,Volta,98.7
+1999,,,Eastern,99.6
+1999,,,Ashanti,93.6
+1999,,,Brong Ahafo,97.6
+1999,,,Northern,100
+1999,,,Upper East,97.1
+1999,,,Upper West,100
