@@ -41,7 +41,7 @@
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css">
-        <link rel="stylesheet" href="/assets/css/default.css?v=20181120211110">
+        <link rel="stylesheet" href="/assets/css/default.css?v=20181121173319">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
     </head>
 <body>
@@ -212,7 +212,7 @@
   </div>
   
   <div class="row" id="indicatorData" data-indicatordata='[{"Year":"2017","Location":null,"Sex":null,"Geography":null,"Value":"29.9"},{"Year":"2017","Location":"Urban","Sex":null,"Geography":null,"Value":"33.7"},{"Year":"2017","Location":"Rural","Sex":null,"Geography":null,"Value":"26.1"},{"Year":"2017","Location":null,"Sex":"Male","Geography":null,"Value":"30.3"},{"Year":"2017","Location":null,"Sex":"Female","Geography":null,"Value":"29.6"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Western","Value":"24.5"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Central","Value":"33.6"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Greater Accra","Value":"36.9"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Volta","Value":"23.7"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Eastern","Value":"24.7"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Ashanti","Value":"41.9"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Brong Ahafo","Value":"16.7"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Northern","Value":"25.6"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Upper East","Value":"27.2"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Upper West","Value":"19.4"},{"Year":"2013","Location":null,"Sex":null,"Geography":null,"Value":"31.6"},{"Year":"2013","Location":"Urban","Sex":null,"Geography":null,"Value":"38.2"},{"Year":"2013","Location":"Rural","Sex":null,"Geography":null,"Value":"25.1"},{"Year":"2013","Location":null,"Sex":"Male","Geography":null,"Value":"32"},{"Year":"2013","Location":null,"Sex":"Female","Geography":null,"Value":"31.3"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Western","Value":"31.5"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Central","Value":"31"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Greater Accra","Value":"46.9"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Volta","Value":"41.9"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Eastern","Value":"30.4"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Ashanti","Value":"28.9"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Brong Ahafo","Value":"22.6"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Northern","Value":"17.8"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Upper East","Value":"33.6"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Upper West","Value":"17"}]' data-indicatorid='indicator_16-5-1' data-country="National"
-  data-edgesdata='[]' data-charttitle="Proportion of persons who paid a bribe to a public official, or were asked for a bribe" data-measurementunit="Percentage (%)" data-datasource="Ghana Statistical Service, Ghana Living Standards Survey, 2017" data-geographicalarea="National" data-footnote="" data-showdata="true" data-graphtype="line" data-geocoderegex="" data-showmap="true">
+  data-edgesdata='[]' data-charttitle="Proportion of persons who paid a bribe to a public official, or were asked for a bribe" data-measurementunit="Percentage (%)" data-datasource="Ghana Statistical Service, Ghana Living Standards Survey" data-geographicalarea="National" data-footnote="" data-showdata="true" data-graphtype="bar" data-geocoderegex="" data-showmap="true">
     
     <div class="col-md-3">
       <div id="toolbar">
@@ -286,7 +286,7 @@
   
   <div id="datatableFooter">
     
-    <p>Source: Ghana Statistical Service, Ghana Living Standards Survey, 2017</p>
+    <p>Source: Ghana Statistical Service, Ghana Living Standards Survey</p>
     
     
     <p>Geographical Area: National</p>
@@ -328,7 +328,34 @@
     
     <div class="plot-container">
         
-<canvas></canvas>
+
+<canvas id="barchart-16-5-1" class="ct-chart ct-major-eleventh"></canvas>
+<script>
+  // 3.5.2
+  // 1.5.2 // 2 bars
+  // 4.b.1 // 3 bars
+  var chartInfo = chartDataProcessor.getChartInfo([{"Year":"2017","Location":null,"Sex":null,"Geography":null,"Value":"29.9"},{"Year":"2017","Location":"Urban","Sex":null,"Geography":null,"Value":"33.7"},{"Year":"2017","Location":"Rural","Sex":null,"Geography":null,"Value":"26.1"},{"Year":"2017","Location":null,"Sex":"Male","Geography":null,"Value":"30.3"},{"Year":"2017","Location":null,"Sex":"Female","Geography":null,"Value":"29.6"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Western","Value":"24.5"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Central","Value":"33.6"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Greater Accra","Value":"36.9"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Volta","Value":"23.7"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Eastern","Value":"24.7"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Ashanti","Value":"41.9"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Brong Ahafo","Value":"16.7"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Northern","Value":"25.6"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Upper East","Value":"27.2"},{"Year":"2017","Location":null,"Sex":null,"Geography":"Upper West","Value":"19.4"},{"Year":"2013","Location":null,"Sex":null,"Geography":null,"Value":"31.6"},{"Year":"2013","Location":"Urban","Sex":null,"Geography":null,"Value":"38.2"},{"Year":"2013","Location":"Rural","Sex":null,"Geography":null,"Value":"25.1"},{"Year":"2013","Location":null,"Sex":"Male","Geography":null,"Value":"32"},{"Year":"2013","Location":null,"Sex":"Female","Geography":null,"Value":"31.3"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Western","Value":"31.5"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Central","Value":"31"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Greater Accra","Value":"46.9"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Volta","Value":"41.9"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Eastern","Value":"30.4"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Ashanti","Value":"28.9"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Brong Ahafo","Value":"22.6"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Northern","Value":"17.8"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Upper East","Value":"33.6"},{"Year":"2013","Location":null,"Sex":null,"Geography":"Upper West","Value":"17"}]),
+      chartInstance = new Chart(document.getElementById('barchart-16-5-1'), {
+      type: 'bar',
+      data: chartInfo,
+      options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            yAxes: [{
+              ticks: {
+                  suggestedMin: 0
+              }
+            }]
+          },
+          legend: {
+            display: false
+         },
+      }
+  });
+
+</script>
+
     </div>
     <div id="plotLegend"></div>
 
@@ -901,7 +928,7 @@
         <th scope="row">Organisation </th>
         <td>
           
-            Ghana Statistical Service, Ghana Living Standards Survey, 2017
+            Ghana Statistical Service, Ghana Living Standards Survey
           
         </td>
         </tr>
@@ -1157,7 +1184,7 @@ ga('send', 'pageview');
 <script src="//cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.0/Chart.bundle.min.js"></script>
 <script type="text/javascript"> window.loop11_key = "0104054b3b56d396b42e668dfe096cee161454a8"; </script>
 <script src="//cdn.loop11.com/my/loop11.js" type="text/javascript" async="async"></script>
-<script src='/assets/js/sdg.js?v=20181120211110'></script>
+<script src='/assets/js/sdg.js?v=20181121173319'></script>
 <script src="/assets/js/lib/classList.js"></script>
 <script src="/assets/js/lib/modernizr-custom.js"></script>
 <script src="//cdn.jsdelivr.net/bluebird/3.5.0/bluebird.min.js"></script>
