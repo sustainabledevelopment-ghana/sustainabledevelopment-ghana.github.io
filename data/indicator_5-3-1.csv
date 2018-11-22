@@ -2,52 +2,57 @@ Year,Units,Location,Geography,Highest Education Level,Value
 2017,married or in union before age 15,,,,0.4
 2017,married or in union before age 15,Urban,,,0.2
 2017,married or in union before age 15,Rural,,,0.6
-2017,married or in union before age 15,,Western,,0
+2017,married or in union before age 15,,Western,,0.0
 2017,married or in union before age 15,,Central,,0.3
 2017,married or in union before age 15,,Greater Accra,,0.3
 2017,married or in union before age 15,,Volta,,1.1
-2017,married or in union before age 15,,Eastern,,0.4
-2017,married or in union before age 15,,Ashanti,,0
-2017,married or in union before age 15,,Brong Ahafo,,0
+2017,married or in union before age 15,,Eastern,,0.5
+2017,married or in union before age 15,,Ashanti,,0.0
+2017,married or in union before age 15,,Brong Ahafo,,0.0
 2017,married or in union before age 15,,Northern,,1.2
 2017,married or in union before age 15,,Upper East,,0.8
 2017,married or in union before age 15,,Upper West,,1.3
-2017,married or in union before age 15,,,Preschool,0
+2017,married or in union before age 15,,,None,0.0
+2017,married or in union before age 15,,,Preschool,0.0
 2017,married or in union before age 15,,,Primary,0.6
-2017,married or in union before age 15,,,JSS/JHS,0.2
-2017,married or in union before age 15,,,SSS/SHS,0.1
+2017,married or in union before age 15,,,MSLC/JSS/JHS,0.2
+2017,married or in union before age 15,,,Secondary/SSS/SHS+,0.1
 2013,married or in union before age 15,,,,1.5
 2013,married or in union before age 15,Urban,,,0.7
 2013,married or in union before age 15,Rural,,,2.4
 2013,married or in union before age 15,,Western,,2.9
-2013,married or in union before age 15,,Central,,0
+2013,married or in union before age 15,,Central,,0.0
 2013,married or in union before age 15,,Greater Accra,,1.2
-2013,married or in union before age 15,,Volta,,4
+2013,married or in union before age 15,,Volta,,4.0
 2013,married or in union before age 15,,Eastern,,0.8
 2013,married or in union before age 15,,Ashanti,,1.4
 2013,married or in union before age 15,,Brong Ahafo,,1.9
 2013,married or in union before age 15,,Northern,,0.7
 2013,married or in union before age 15,,Upper East,,1.1
 2013,married or in union before age 15,,Upper West,,1.3
+2013,married or in union before age 15,,,None,0.0
 2013,married or in union before age 15,,,Preschool,2.8
 2013,married or in union before age 15,,,Primary,1.3
-2013,married or in union before age 15,,,JSS/JHS,0.9
-2013,married or in union before age 15,,,SSS/SHS,0.1
-2013,married or in union before age 15,,,Teacher Training/Agric/Nursing Certificate,3.7
+2013,married or in union before age 15,,,MSLC/JSS/JHS,0.9
+2013,married or in union before age 15,,,Secondary/SSS/SHS+,3.8
 2006,married or in union before age 15,,,,1.1
 2006,married or in union before age 15,Urban,,,0.8
 2006,married or in union before age 15,Rural,,,1.4
 2006,married or in union before age 15,,Western,,1.6
 2006,married or in union before age 15,,Central,,1.1
 2006,married or in union before age 15,,Greater Accra,,0.3
-2006,married or in union before age 15,,Volta,,0
+2006,married or in union before age 15,,Volta,,0.0
 2006,married or in union before age 15,,Eastern,,1.3
 2006,married or in union before age 15,,Ashanti,,0.9
-2006,married or in union before age 15,,Brong Ahafo,,3
+2006,married or in union before age 15,,Brong Ahafo,,3.0
 2006,married or in union before age 15,,Northern,,0.8
 2006,married or in union before age 15,,Upper East,,1.5
 2006,married or in union before age 15,,Upper West,,1.2
 2006,married or in union before age 15,,,None,2.3
+2006,married or in union before age 15,,,Preschool,0.0
+2006,married or in union before age 15,,,Primary,0.0
+2006,married or in union before age 15,,,MSLC/JSS/JHS,0.0
+2006,married or in union before age 15,,,Secondary/SSS/SHS+,0.0
 2017,married or in union before age 18,,,,8.1
 2017,married or in union before age 18,Urban,,,4.6
 2017,married or in union before age 18,Rural,,,12.5
@@ -61,15 +66,15 @@ Year,Units,Location,Geography,Highest Education Level,Value
 2017,married or in union before age 18,,Northern,,12.6
 2017,married or in union before age 18,,Upper East,,14.3
 2017,married or in union before age 18,,Upper West,,8.4
+2017,married or in union before age 18,,,None,0.0
 2017,married or in union before age 18,,,Preschool,44.8
 2017,married or in union before age 18,,,Primary,16.2
-2017,married or in union before age 18,,,JSS/JHS,10.8
-2017,married or in union before age 18,,,SSS/SHS,1.9
-2013,married or in union before age 18,,,Teacher Training/Agric/Nursing Certificate,0.9
-2013,married or in union before age 18,,,,13
+2017,married or in union before age 18,,,MSLC/JSS/JHS,10.8
+2017,married or in union before age 18,,,Secondary/SSS/SHS+,2.8
+2013,married or in union before age 18,,,,13.0
 2013,married or in union before age 18,Urban,,,7.1
 2013,married or in union before age 18,Rural,,,20.2
-2013,married or in union before age 18,,Western,,13
+2013,married or in union before age 18,,Western,,13.0
 2013,married or in union before age 18,,Central,,14.4
 2013,married or in union before age 18,,Greater Accra,,7.6
 2013,married or in union before age 18,,Volta,,17.8
@@ -82,11 +87,9 @@ Year,Units,Location,Geography,Highest Education Level,Value
 2013,married or in union before age 18,,,None,19.3
 2013,married or in union before age 18,,,Preschool,26.1
 2013,married or in union before age 18,,,Primary,25.8
-2013,married or in union before age 18,,,JSS/JHS,8.8
-2013,married or in union before age 18,,,SSS/SHS,0.7
-2006,married or in union before age 18,,,Secondary,6.1
-2006,married or in union before age 18,,,Vocational/Technical/Commercial,3.7
-2006,married or in union before age 18,,,,12
+2013,married or in union before age 18,,,MSLC/JSS/JHS,8.8
+2013,married or in union before age 18,,,Secondary/SSS/SHS+,10.5
+2006,married or in union before age 18,,,,12.0
 2006,married or in union before age 18,Urban,,,8.6
 2006,married or in union before age 18,Rural,,,15.1
 2006,married or in union before age 18,,Western,,15.9
@@ -100,6 +103,7 @@ Year,Units,Location,Geography,Highest Education Level,Value
 2006,married or in union before age 18,,Upper East,,14.1
 2006,married or in union before age 18,,Upper West,,15.2
 2006,married or in union before age 18,,,None,17.5
-2006,married or in union before age 18,,,MSLC,7.5
-2006,married or in union before age 18,,,JSS/JHS,6.2
-2006,married or in union before age 18,,,SSS/SHS,1.8
+2006,married or in union before age 18,,,Preschool,0.0
+2006,married or in union before age 18,,,Primary,0.0
+2006,married or in union before age 18,,,MSLC/JSS/JHS,13.7
+2006,married or in union before age 18,,,Secondary/SSS/SHS+,1.8
