@@ -1,4 +1,4 @@
-Year,Location,Child's sex,Geography,Mother's age at birth,Mother's education,Wealth quintile,Birth order,Value
+Year,Location,Sex of child,Geography,Mothers age at birth,Mothers education,Wealth quintile,Birth order,Value
 2014,,,,,,,,29
 2014,Urban,,,,,,,33
 2014,Rural,,,,,,,29
@@ -19,8 +19,8 @@ Year,Location,Child's sex,Geography,Mother's age at birth,Mother's education,Wea
 2014,,,,30 to 39,,,,74
 2014,,,,,No education,,,30
 2014,,,,,Primary,,,35
-2014,,,,,Middle/JSS/JHS,,,28
-2014,,,,,Secondary+,,,36
+2014,,,,,Middle or JSS or JHS,,,28
+2014,,,,,Secondary and higher,,,36
 2014,,,,,,Lowest,,32
 2014,,,,,,Second,,26
 2014,,,,,,Middle,,26
@@ -50,8 +50,8 @@ Year,Location,Child's sex,Geography,Mother's age at birth,Mother's education,Wea
 2008,,,,30 to 39,,,,35
 2008,,,,,No education,,,38
 2008,,,,,Primary,,,35
-2008,,,,,Middle/JSS/JHS,,,23
-2008,,,,,Secondary+,,,38
+2008,,,,,Middle or JSS or JHS,,,23
+2008,,,,,Secondary and higher,,,38
 2008,,,,,,Lowest,,31
 2008,,,,,,Second,,27
 2008,,,,,,Middle,,44
@@ -81,8 +81,8 @@ Year,Location,Child's sex,Geography,Mother's age at birth,Mother's education,Wea
 2003,,,,30 to 39,,,,42
 2003,,,,,No education,,,37
 2003,,,,,Primary,,,49
-2003,,,,,Middle/JSS/JHS,,,43
-2003,,,,,Secondary+,,,27
+2003,,,,,Middle or JSS or JHS,,,43
+2003,,,,,Secondary and higher,,,27
 2003,,,,,,Lowest,,37
 2003,,,,,,Second,,40
 2003,,,,,,Middle,,49
@@ -112,8 +112,8 @@ Year,Location,Child's sex,Geography,Mother's age at birth,Mother's education,Wea
 1998,,,,30 to 39,,,,38.4
 1998,,,,,No education,,,33.8
 1998,,,,,Primary,,,41.1
-1998,,,,,Middle/JSS/JHS,,,28.6
-1998,,,,,Secondary+,,,10.5
+1998,,,,,Middle or JSS or JHS,,,28.6
+1998,,,,,Secondary and higher,,,10.5
 1998,,,,,,,1,43.4
 1998,,,,,,,2 to 3,28.2
 1998,,,,,,,4 to 6,27.2
@@ -138,8 +138,8 @@ Year,Location,Child's sex,Geography,Mother's age at birth,Mother's education,Wea
 1993,,,,30 to 39,,,,44.8
 1993,,,,,No education,,,51.5
 1993,,,,,Primary,,,55.6
-1993,,,,,Middle/JSS/JHS,,,35.4
-1993,,,,,Secondary+,,,28.2
+1993,,,,,Middle or JSS or JHS,,,35.4
+1993,,,,,Secondary and higher,,,28.2
 1993,,,,,,,1,52.5
 1993,,,,,,,2 to 3,37.4
 1993,,,,,,,4 to 6,41.5

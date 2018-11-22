@@ -1,4 +1,4 @@
-Year,Location,Geography,Age at Birth,Mother's education,Wealth quintile,Birth order,Place of delivery,Value
+Year,Location,Geography,Mothers age at birth,Mother education,Wealth quintile,Birth order,Place of delivery,Value
 2014,,,,,,,,73.7
 2014,Urban,,,,,,,90.1
 2014,Rural,,,,,,,60.2
@@ -12,7 +12,7 @@ Year,Location,Geography,Age at Birth,Mother's education,Wealth quintile,Birth or
 2014,,Northern,,,,,,36.4
 2014,,Upper East,,,,,,84.6
 2014,,Upper West,,,,,,63.7
-2014,,,<20,,,,,72.1
+2014,,,less than 20,,,,,72.1
 2014,,,20-34,,,,,74.6
 2014,,,35-49,,,,,71.2
 2014,,,,No education,,,,52.3
@@ -43,7 +43,7 @@ Year,Location,Geography,Age at Birth,Mother's education,Wealth quintile,Birth or
 2008,,Northern,,,,,,27.2
 2008,,Upper East,,,,,,46.7
 2008,,Upper West,,,,,,46.1
-2008,,,<20,,,,,52.2
+2008,,,less than 20,,,,,52.2
 2008,,,20-34,,,,,60.6
 2008,,,35-49,,,,,54.9
 2008,,,,No education,,,,36.3
@@ -74,7 +74,7 @@ Year,Location,Geography,Age at Birth,Mother's education,Wealth quintile,Birth or
 2003,,Northern,,,,,,18.3
 2003,,Upper East,,,,,,27.8
 2003,,Upper West,,,,,,33.3
-2003,,,<20,,,,,48.4
+2003,,,less than 20,,,,,48.4
 2003,,,20-34,,,,,47.7
 2003,,,35-49,,,,,44
 2003,,,,No education,,,,29.7
@@ -103,7 +103,7 @@ Year,Location,Geography,Age at Birth,Mother's education,Wealth quintile,Birth or
 1998,,Northern,,,,,,31.1
 1998,,Upper East,,,,,,36.8
 1998,,Upper West,,,,,,55.6
-1998,,,<20,,,,,46.7
+1998,,,less than 20,,,,,46.7
 1998,,,20-34,,,,,44.4
 1998,,,35+,,,,,38.8
 1998,,,,,,1,,47.4
@@ -123,7 +123,7 @@ Year,Location,Geography,Age at Birth,Mother's education,Wealth quintile,Birth or
 1993,,Northern,,,,,,15.8
 1993,,Upper East,,,,,,22.1
 1993,,Upper West,,,,,,19
-1993,,,<20,,,,,47.4
+1993,,,less than 20,,,,,47.4
 1993,,,20-34,,,,,45.1
 1993,,,35+,,,,,35.3
 1993,,,,No education,,,,23.8
