@@ -41,7 +41,7 @@
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css">
-        <link rel="stylesheet" href="/assets/css/default.css?v=20190516172435">
+        <link rel="stylesheet" href="/assets/css/default.css?v=20190625121256">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
     </head>
 <body>
@@ -197,9 +197,7 @@
   <div class="row" id="page-content-row">
     <div class="col-xs-12">
       <div id="page-content">
-        <p>We have not explored suitable data sources for this indicator.</p>
-
-<p>The Sustainable Development Goals Secretariat is a collaborative project, if you have any feedback or suggestions for data please contact us at: sdg.secretariat@statsghana.gov.gh</p>
+        <p>The Sustainable Development Goals Secretariat is a collaborative project, if you have any feedback or suggestions for data please contact us at: sdg.secretariat@statsghana.gov.gh</p>
 
       </div>
     </div>
@@ -207,21 +205,159 @@
   
   <div class="row">
     <div class="col-xs-12">
-      <h2></h2>
+      <h2>Primary government expenditures as a proportion of original approved budget, by sector</h2>
     </div>
   </div>
   
-  <div class="row" id="indicatorData" data-indicatordata='[{"Year":"2015","Group":"A","Value":"1"},{"Year":"2015","Group":"B","Value":"3"},{"Year":"2015","Group":null,"Value":"2"},{"Year":"2016","Group":"A","Value":"1"},{"Year":"2016","Group":"B","Value":"3"},{"Year":"2016","Group":null,"Value":"2"}]' data-indicatorid='indicator_16-6-1' data-country=""
-  data-edgesdata='[]' data-charttitle="" data-measurementunit="" data-datasource="" data-geographicalarea="" data-footnote="" data-showdata="false" data-graphtype="line" data-geocoderegex="" data-showmap="true">
+  <div class="row" id="indicatorData" data-indicatordata='[{"Year":"2016","Value":"85.93"},{"Year":"2017","Value":"88.63"},{"Year":"2018","Value":"90.47"}]' data-indicatorid='indicator_16-6-1' data-country="National"
+  data-edgesdata='[]' data-charttitle="Primary government expenditures as a proportion of original approved budget, by sector" data-measurementunit="Percentage(%)" data-datasource="Ministery of Finance" data-geographicalarea="National" data-footnote="" data-showdata="true" data-graphtype="line" data-geocoderegex="" data-showmap="true">
     
-    <div class="col-md-12">
+    <div class="col-md-3">
+      <div id="toolbar">
+        <span id="series-help">
+          <h4>Sub-categories</h4>
+          <p>Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.</p>
+        </span>
+        <p>Click on the legend to remove individual lines from the chart.</p>
+        <div id="fields"></div>
+      </div>
+      <div id="units"></div>
+    </div>
+    <div class="col-md-9">
     
       
+      
+       
+ 
+
+<div id="headlineTable">
+  
+  <div id="datatables">
+    
+    <a href="/data/headlines/headlines_16-6-1.csv" class="btn btn-primary btn-download" download="indicator_16-6-1.csv" tabindex="0" role="button">Download Headline CSV</a>
+    
+    <a href="/data/indicator_16-6-1.csv" class="btn btn-primary btn-download" style='float:left;margin-right:1em' download='indicator_16-6-1.csv' tabindex='0' role='button'>Download Source CSV</a>
+    
+    <h3>Headline data</h3>
+    <table class="table-responsive table table-hover dataTable no-footer" role="grid">
+      <caption>Primary government expenditures as a proportion of original approved budget, by sector</caption>
+      <thead>
+        
+        
+        <th scope="col">Year</th>
+        
+        
+        
+        <th scope="col" class="table-value">Value</th>
+        
+        
+      </thead>
+      <tbody>
+        
+        <tr>
+          
+          
+          <td>2016</td>    
+          
+          
+          
+          <td class="table-value">85.93</td>
+          
+          
+        </tr>
+        
+        <tr>
+          
+          
+          <td>2017</td>    
+          
+          
+          
+          <td class="table-value">88.63</td>
+          
+          
+        </tr>
+        
+        <tr>
+          
+          
+          <td>2018</td>    
+          
+          
+          
+          <td class="table-value">90.47</td>
+          
+          
+        </tr>
+        
+      </tbody>
+    </table>
+  </div>
+  
+  <div id="datatableFooter">
+    
+    <p>Source: Ministery of Finance</p>
+    
+    
+    <p>Geographical Area: National</p>
+    
+    
+    <p>Unit of Measurement: Percentage(%)</p>
+    
+    
+  </div>
+  
+</div>
       
 
       <section>
         
         
+        <ul class="nav nav-tabs data-view" role="tablist">
+          <li role="presentation" class="nav-item active">
+            <a class="nav-link" data-toggle="tab" href="#chartview" aria-controls="chartview" role="tab">Chart</a>
+          </li>
+          <li role="presentation" class="nav-item">
+            <a class="nav-link" data-toggle="tab" href="#tableview" aria-controls="tableview" role="tab">Table</a>
+          </li>
+          <li role="presentation" class="nav-item map" style="display:none">
+            <a class="nav-link" data-toggle="tab" href="#mapview" aria-controls="mapview" role="tab">Map</a>
+          </li></ul>
+        
+        <!-- Tab panes -->
+        <div class="tab-content data-view">
+          <div role="tabpanel" class="tab-pane active" id="chartview">
+            
+    
+    
+
+    <div id="dataset-size-warning" style="display:none">
+      <i class="fa fa-bolt"></i> There are too many datasets to show on the chart. Not all will be shown until you remove some selections.
+    </div>
+
+    
+    <div class="plot-container">
+        
+<canvas></canvas>
+    </div>
+    <div id="plotLegend"></div>
+
+    <div id="chartSelectionDownload"></div>    
+    
+
+
+          </div>
+          <div role="tabpanel" class="tab-pane" id="tableview">
+            <div id="selectionsTable"></div>
+          </div>
+          <div role="tabpanel" class="tab-pane" id="mapview" class="map">
+              <div id="map">
+                <img src="/assets/img/loading.gif" alt="Loading map" />
+              </div>
+          </div>        
+          
+		</div>
+		
         
         <div class="alert alert-warning" role="alert">
           <i class="fa fa-info" aria-hidden="true"></i> See metadata tab for definitions and methodology information
@@ -285,7 +421,7 @@
         <th scope="row">Indicator available </th>
         <td>
           
-            
+            Primary governement expenditure as a proportion of approved budget
           
         </td>
         </tr>
@@ -298,7 +434,7 @@
         <th scope="row">Indicator description </th>
         <td>
           
-            
+            Aggregate expenditure includes actual expenditures incorporating those incurred as a result of unplanned or exceptional events—for example, armed conflicts or natural disasters. Expenditures financed by windfall revenues, including privatization, should be included and noted in the supporting fiscal tables and narrative. Expenditures financed externally by loans or grants should be included, if covered by the budget, along with contingency vote(s) and interest on debt
           
         </td>
         </tr>
@@ -311,7 +447,7 @@
         <th scope="row">Geographical coverage </th>
         <td>
           
-            
+            National
           
         </td>
         </tr>
@@ -324,7 +460,7 @@
         <th scope="row">Unit of measurement </th>
         <td>
           
-            
+            Percentage(%)
           
         </td>
         </tr>
@@ -350,7 +486,7 @@
         <th scope="row">Calculations </th>
         <td>
           
-            
+            The methodology for calculating this indicator is provided in a spreadsheet (titled “En PI-1 and PI-2 Exp Calculation-Feb 1 2016 (xls)”) on the PEFA website (http://www.pefa.org/en/content/pefa-2016framework). It is also detailed in part 2 of the document (“Framework for assessing public financial management”) (https://www.pefa.org/sites/pefa.org/files/attachments/PEFA%20Framework_English.pdf). Scoring is at the heart of the indicator. A country is scored separately on a four point ordinal scale (A, B, C, or D), according to precise criteria (A) Aggregate expenditure outturn was between (95%) and (105%) of the approved aggregate budgeted expenditure in at least two of the last three years. (B) Aggregate expenditure outturn was between (90%) and (110%) of the approved aggregate budgeted expenditure in at least two of the last three years. (C Aggregate expenditure outturn was between (85%) and (115%) of the approved aggregate budgeted expenditure in at least two of the last three years. (D) Performance is less than required for a C score
           
         </td>
         </tr>
@@ -775,7 +911,7 @@
         <th scope="row">Organisation </th>
         <td>
           
-            
+            Ministery of Finance
           
         </td>
         </tr>
@@ -788,7 +924,7 @@
         <th scope="row">Periodicity </th>
         <td>
           
-            
+            Annual
           
         </td>
         </tr>
@@ -814,7 +950,7 @@
         <th scope="row">Geographical coverage </th>
         <td>
           
-            
+            National
           
         </td>
         </tr>
@@ -833,6 +969,10 @@
             
 
             
+              <a href="http://www.mofep.gov.gh/" target="_blank">
+                Ministery of Finance <span class="visuallyhidden">opens in a new window</span>
+              </a>
+            
             
           
         </td>
@@ -850,7 +990,7 @@
         <th scope="row">Release date </th>
         <td>
           
-            
+            2015
           
         </td>
         </tr>
@@ -863,7 +1003,7 @@
         <th scope="row">Next release </th>
         <td>
           
-            
+            2018
           
         </td>
         </tr>
@@ -876,7 +1016,7 @@
         <th scope="row">Statistical classification </th>
         <td>
           
-            
+            Official Statistics
           
         </td>
         </tr>
@@ -889,7 +1029,7 @@
         <th scope="row">Contact details </th>
         <td>
           
-            
+            +233244868685, +233209181561
           
         </td>
         </tr>
@@ -1027,7 +1167,7 @@ ga('send', 'pageview');
 <script src="//cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.0/Chart.bundle.min.js"></script>
 <script type="text/javascript"> window.loop11_key = "0104054b3b56d396b42e668dfe096cee161454a8"; </script>
 <script src="//cdn.loop11.com/my/loop11.js" type="text/javascript" async="async"></script>
-<script src='/assets/js/sdg.js?v=20190516172435'></script>
+<script src='/assets/js/sdg.js?v=20190625121256'></script>
 <script src="/assets/js/lib/classList.js"></script>
 <script src="/assets/js/lib/modernizr-custom.js"></script>
 <script src="//cdn.jsdelivr.net/bluebird/3.5.0/bluebird.min.js"></script>

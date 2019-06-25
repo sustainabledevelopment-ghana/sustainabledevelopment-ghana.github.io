@@ -1,7 +1,25 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Location,Sex,Geography,Age,Education,Value
+2016,,,,,,79.6
+2016,Urban,,,,,87.4
+2016,Rural,,,,,69.9
+2016,,Male,,,,85
+2016,,Female,,,,79
+2016,,,Western,,,79.1
+2016,,,Central,,,91.8
+2016,,,Greater Accra,,,92.8
+2016,,,Volta,,,78.2
+2016,,,Eastern,,,84.9
+2016,,,Ashanti,,,86.1
+2016,,,Brong Ahafo,,,78.1
+2016,,,Northern,,,72.2
+2016,,,Upper East,,,67
+2016,,,Upper West,,,60.5
+2016,,,,Below 19 years,,43.9
+2016,,,,19-30 years,,90.7
+2016,,,,31-45 years,,89.2
+2016,,,,46-60 years,,84.1
+2016,,,,Above 60 years,,69.6
+2016,,,,,No education,63.1
+2016,,,,,Primary/Middle/JSS/JHS,75.6
+2016,,,,,Secondary/SSS/SHS,92.7
+2016,,,,,Tertiary,99.4

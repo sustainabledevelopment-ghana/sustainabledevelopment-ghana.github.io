@@ -1,25 +1,4 @@
-Year,Units,Location,Value
-2010,Percent,Coast Basin(9 rivers and 1 lake,100
-2011,Percent,Coast Basin(9 rivers and 1 lake,100
-2012,Percent,Coast Basin(9 rivers and 1 lake,50
-2013,Percent,Coast Basin(9 rivers and 1 lake,40
-2014,Percent,Coast Basin(9 rivers and 1 lake,50
-2015,Percent,Coast Basin(9 rivers and 1 lake,80
-2016,Percent,Coast Basin(9 rivers and 1 lake,30
-2017,Percent,Coast Basin(9 rivers and 1 lake,50
-2010,Percent,South Western Basin(16 rivers and lake),100
-2011,Percent,South Western Basin(16 rivers and lake),76.47
-2012,Percent,South Western Basin(16 rivers and lake),29.41
-2013,Percent,South Western Basin(16 rivers and lake),5.88
-2014,Percent,South Western Basin(16 rivers and lake),17.65
-2015,Percent,South Western Basin(16 rivers and lake),29.41
-2016,Percent,South Western Basin(16 rivers and lake),11.76
-2017,Percent,South Western Basin(16 rivers and lake),52.94
-2011,Percent,Volta Basin(13 Rivers),100
-2012,Percent,Volta Basin(13 Rivers),100
-2013,Percent,Volta Basin(13 Rivers),63.64
-2014,Percent,Volta Basin(13 Rivers),41.67
-2015,Percent,Volta Basin(13 Rivers),53.85
-2016,Percent,Volta Basin(13 Rivers),92.31
-2017,Percent,Volta Basin(13 Rivers),77
-2018,Percent,Volta Basin(13 Rivers),69.23
+Year,Value
+2015,61
+2017,52
+2018,55.9

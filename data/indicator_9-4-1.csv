@@ -1,28 +1,21 @@
-Year,Value
-1990, 1.48 
-1991, 1.39 
-1992, 1.32 
-1993, 1.31 
-1994, 1.31 
-1995, 1.25 
-1996, 1.23 
-1997, 1.19 
-1998, 1.25 
-1999, 1.18 
-2000, 1.14 
-2001, 1.13 
-2002, 1.15 
-2003, 1.03 
-2004, 0.92 
-2005, 0.87 
-2006, 0.87 
-2007, 1.03 
-2008, 0.92 
-2009, 0.9 
-2010, 0.72 
-2011, 0.67 
-2012, 0.65 
-2013, 0.61 
-2014, 0.59 
-2015, 0.58 
-2016, 0.57 
+Year,Units,Value
+2013,All 4 sectors,0.640136149
+2014,All 4 sectors,0.638332837
+2015,All 4 sectors,0.64480425
+2016,All 4 sectors,0.647350593
+2013,"Agriculture, Forestry and Other Land Use",7.542981416
+2014,"Agriculture, Forestry and Other Land Use",7.394233783
+2015,"Agriculture, Forestry and Other Land Use",7.045090603
+2016,"Agriculture, Forestry and Other Land Use",6.872645373
+2013,Energy,131.8994461
+2014,Energy,133.4019714
+2015,Energy,118.7876112
+2016,Energy,134.0140472
+2013,Industrial Processes and Product Use,0.12677305
+2014,Industrial Processes and Product Use,0.175635929
+2015,Industrial Processes and Product Use,0.190216488
+2016,Industrial Processes and Product Use,0.17877292
+2013,Waste,0.189264706
+2014,Waste,0.158668516
+2015,Waste,0.139342266
+2016,Waste,0.177762431

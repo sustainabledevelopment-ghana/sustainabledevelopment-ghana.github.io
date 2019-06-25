@@ -41,7 +41,7 @@
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css">
-        <link rel="stylesheet" href="/assets/css/default.css?v=20190516172435">
+        <link rel="stylesheet" href="/assets/css/default.css?v=20190625121256">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
     </head>
 <body>
@@ -211,12 +211,12 @@
   
   <div class="row">
     <div class="col-xs-12">
-      <h2>Trends of Post-harvest loss by crop type (%)</h2>
+      <h2>Percentage Post-Harvest Losses</h2>
     </div>
   </div>
   
   <div class="row" id="indicatorData" data-indicatordata='[{"Year":"2016","Units":"Percentage loss per annum","Crop_type":"Maize","Value":"18.25"},{"Year":"2017","Units":"Percentage loss per annum","Crop_type":"Maize","Value":"17.5"},{"Year":"2018","Units":"Percentage loss per annum","Crop_type":"Maize","Value":"17.65"},{"Year":"2016","Units":"Percentage loss per annum","Crop_type":"Rice","Value":"5.54"},{"Year":"2017","Units":"Percentage loss per annum","Crop_type":"Rice","Value":"5.19"},{"Year":"2018","Units":"Percentage loss per annum","Crop_type":"Rice","Value":"4.84"},{"Year":"2016","Units":"Percentage loss per annum","Crop_type":"Cassava","Value":"25.46"},{"Year":"2017","Units":"Percentage loss per annum","Crop_type":"Cassava","Value":"25.06"},{"Year":"2018","Units":"Percentage loss per annum","Crop_type":"Cassava","Value":"24.66"},{"Year":"2016","Units":"Percentage loss per annum","Crop_type":"Yam","Value":"21.96"},{"Year":"2017","Units":"Percentage loss per annum","Crop_type":"Yam","Value":"21.46"},{"Year":"2018","Units":"Percentage loss per annum","Crop_type":"Yam","Value":"20.96"},{"Year":"2016","Units":"Percentage loss per annum","Crop_type":"Sorghum","Value":"7.48"},{"Year":"2017","Units":"Percentage loss per annum","Crop_type":"Sorghum","Value":"7.28"},{"Year":"2018","Units":"Percentage loss per annum","Crop_type":"Sorghum","Value":"7.08"}]' data-indicatorid='indicator_12-3-1' data-country="National"
-  data-edgesdata='[]' data-charttitle="Trends of Post-harvest loss by crop type (%)" data-measurementunit="Percentage loss per annum (%)" data-datasource="Ministry of Food and Agriculture" data-geographicalarea="National" data-footnote="" data-showdata="true" data-graphtype="line" data-geocoderegex="" data-showmap="false">
+  data-edgesdata='[]' data-charttitle="Percentage Post-Harvest Losses" data-measurementunit="Percentage (%)" data-datasource="Ministry of Food and Agriculture" data-geographicalarea="National" data-footnote="" data-showdata="true" data-graphtype="bar" data-geocoderegex="" data-showmap="false">
     
     <div class="col-md-3">
       <div id="toolbar">
@@ -246,7 +246,7 @@
     
     <h3>Headline data</h3>
     <table class="table-responsive table table-hover dataTable no-footer" role="grid">
-      <caption>Trends of Post-harvest loss by crop type (%)</caption>
+      <caption>Percentage Post-Harvest Losses</caption>
       <thead>
         
       </thead>
@@ -264,7 +264,7 @@
     <p>Geographical Area: National</p>
     
     
-    <p>Unit of Measurement: Percentage loss per annum (%)</p>
+    <p>Unit of Measurement: Percentage (%)</p>
     
     
   </div>
@@ -300,7 +300,34 @@
     
     <div class="plot-container">
         
-<canvas></canvas>
+
+<canvas id="barchart-12-3-1" class="ct-chart ct-major-eleventh"></canvas>
+<script>
+  // 3.5.2
+  // 1.5.2 // 2 bars
+  // 4.b.1 // 3 bars
+  var chartInfo = chartDataProcessor.getChartInfo([{"Year":"2016","Units":"Percentage loss per annum","Crop_type":"Maize","Value":"18.25"},{"Year":"2017","Units":"Percentage loss per annum","Crop_type":"Maize","Value":"17.5"},{"Year":"2018","Units":"Percentage loss per annum","Crop_type":"Maize","Value":"17.65"},{"Year":"2016","Units":"Percentage loss per annum","Crop_type":"Rice","Value":"5.54"},{"Year":"2017","Units":"Percentage loss per annum","Crop_type":"Rice","Value":"5.19"},{"Year":"2018","Units":"Percentage loss per annum","Crop_type":"Rice","Value":"4.84"},{"Year":"2016","Units":"Percentage loss per annum","Crop_type":"Cassava","Value":"25.46"},{"Year":"2017","Units":"Percentage loss per annum","Crop_type":"Cassava","Value":"25.06"},{"Year":"2018","Units":"Percentage loss per annum","Crop_type":"Cassava","Value":"24.66"},{"Year":"2016","Units":"Percentage loss per annum","Crop_type":"Yam","Value":"21.96"},{"Year":"2017","Units":"Percentage loss per annum","Crop_type":"Yam","Value":"21.46"},{"Year":"2018","Units":"Percentage loss per annum","Crop_type":"Yam","Value":"20.96"},{"Year":"2016","Units":"Percentage loss per annum","Crop_type":"Sorghum","Value":"7.48"},{"Year":"2017","Units":"Percentage loss per annum","Crop_type":"Sorghum","Value":"7.28"},{"Year":"2018","Units":"Percentage loss per annum","Crop_type":"Sorghum","Value":"7.08"}]),
+      chartInstance = new Chart(document.getElementById('barchart-12-3-1'), {
+      type: 'bar',
+      data: chartInfo,
+      options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            yAxes: [{
+              ticks: {
+                  suggestedMin: 0
+              }
+            }]
+          },
+          legend: {
+            display: false
+         },
+      }
+  });
+
+</script>
+
     </div>
     <div id="plotLegend"></div>
 
@@ -396,7 +423,7 @@
         <th scope="row">Indicator description </th>
         <td>
           
-            The quantitative losses in storage, transport, harvest and marketing of agricultural produce (crops, livestock, fisheries) incurred after harvest as a percentage of total production.
+            Post Harvest Loss is the quantitative losses in storage, transport, harvest and marketing of agricultural  produce incurred after harvest. Percentage of total production that is lost (quantitative and qualitative) during all stages of the post-harvest phases of the system for priority products. For the purpose of this report, post-haverst losses (PHL) are restricted to the losses that occur during harvesting, storage, transport, processing, packaging and sales.
           
         </td>
         </tr>
@@ -422,7 +449,7 @@
         <th scope="row">Unit of measurement </th>
         <td>
           
-            Percentage loss per annum (%)
+            Percentage (%)
           
         </td>
         </tr>
@@ -435,7 +462,7 @@
         <th scope="row">Definitions </th>
         <td>
           
-            Post Harvest Loss is the quantitative losses in storage, transport, harvest and marketing of agricultural produce (crops, livestock, fisheries) incurred after harvest.
+            Note: Figures available are estimates. No Post-Harvest Survey has been conducted over the past 20 years. However a survey is to be  conducted in the  year 2019. So the current data are based on projections.
           
         </td>
         </tr>
@@ -474,7 +501,7 @@
         <th scope="row">Last updated </th>
         <td>
           
-            16/11/2018
+            June 2019
           
         </td>
         </tr>
@@ -899,7 +926,7 @@
         <th scope="row">Earliest available data </th>
         <td>
           
-            2016
+            
           
         </td>
         </tr>
@@ -931,7 +958,7 @@
             
 
             
-              <a href="http://www.mofa.gov.gh" target="_blank">
+              <a href="http://mofa.gov.gh/site/" target="_blank">
                 Ministry of Food and Agriculture <span class="visuallyhidden">opens in a new window</span>
               </a>
             
@@ -952,7 +979,7 @@
         <th scope="row">Release date </th>
         <td>
           
-            2018
+            May 2019
           
         </td>
         </tr>
@@ -965,7 +992,7 @@
         <th scope="row">Next release </th>
         <td>
           
-            2019
+            May 2020
           
         </td>
         </tr>
@@ -991,7 +1018,7 @@
         <th scope="row">Contact details </th>
         <td>
           
-            
+            Angela Dannson 0208198931 or Faisal Mukaila 0243340448
           
         </td>
         </tr>
@@ -1004,7 +1031,7 @@
         <th scope="row">Other information </th>
         <td>
           
-            
+            adannson@gmail.com  or faisaliner@gmail.com/faisaliner@yahoo.com
           
         </td>
         </tr>
@@ -1129,7 +1156,7 @@ ga('send', 'pageview');
 <script src="//cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.0/Chart.bundle.min.js"></script>
 <script type="text/javascript"> window.loop11_key = "0104054b3b56d396b42e668dfe096cee161454a8"; </script>
 <script src="//cdn.loop11.com/my/loop11.js" type="text/javascript" async="async"></script>
-<script src='/assets/js/sdg.js?v=20190516172435'></script>
+<script src='/assets/js/sdg.js?v=20190625121256'></script>
 <script src="/assets/js/lib/classList.js"></script>
 <script src="/assets/js/lib/modernizr-custom.js"></script>
 <script src="//cdn.jsdelivr.net/bluebird/3.5.0/bluebird.min.js"></script>

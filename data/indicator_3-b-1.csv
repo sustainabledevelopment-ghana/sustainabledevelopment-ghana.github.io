@@ -1,7 +1,25 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Location,Sex of child,Geography,Mothers age at birth,Mothers education,Wealth quintile,Birth order,Value
+2011,,,,,,,,84.4
+2011,Urban,,,,,,,81.7
+2011,Rural,,,,,,,86.5
+2011,,Male,,,,,,83.2
+2011,,Female,,,,,,85.7
+2011,,,Western,,,,,91.4
+2011,,,Central,,,,,78.4
+2011,,,Greater Accra,,,,,78.3
+2011,,,Volta,,,,,71.8
+2011,,,Eastern,,,,,88
+2011,,,Ashanti,,,,,86.8
+2011,,,Brong Ahafo,,,,,94.9
+2011,,,Northern,,,,,80.2
+2011,,,Upper East,,,,,94.6
+2011,,,Upper West,,,,,93.4
+2011,,,,,No education,,,82.6
+2011,,,,,Primary,,,80.5
+2011,,,,,Middle or JSS or JHS,,,87.5
+2011,,,,,Secondary and higher,,,88.3
+2011,,,,,,Lowest,,83.8
+2011,,,,,,Second,,84.8
+2011,,,,,,Middle,,83.5
+2011,,,,,,Fourth,,85.8
+2011,,,,,,Highest,,84.5
