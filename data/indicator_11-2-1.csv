@@ -1,7 +1,23 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Unit,Geography,Value
+2012,Yes,,2.1
+2012,Yes,Western,0.6
+2012,Yes,Central,1
+2012,Yes,Greater Accra,2.5
+2012,Yes,Volta,4.8
+2012,Yes,Eastern,2.8
+2012,Yes,Ashanti,1.8
+2012,Yes,Brong Ahafo,1.4
+2012,Yes,Northern,1.4
+2012,Yes,Upper East,2.7
+2012,Yes,Upper West,1.5
+2012,No,,97.9
+2012,No,Western,99.4
+2012,No,Central,98.6
+2012,No,Greater Accra,97.5
+2012,No,Volta,95.2
+2012,No,Eastern,97.2
+2012,No,Ashanti,98.2
+2012,No,Brong Ahafo,98.5
+2012,No,Northern,98.5
+2012,No,Upper East,97.3
+2012,No,Upper West,98.5
